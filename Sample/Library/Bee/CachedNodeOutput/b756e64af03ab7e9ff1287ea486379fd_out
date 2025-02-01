@@ -1,0 +1,1 @@
+Packages\com.unity.physics@c7c1a8b1fcb4\Tests\EditModeTests\Authoring\RigidbodyConversionTests.cs(112,13): warning CS0618: 'Rigidbody.drag' is obsolete: 'Please use Rigidbody.linearDamping instead. (UnityUpgradable) -> linearDamping'

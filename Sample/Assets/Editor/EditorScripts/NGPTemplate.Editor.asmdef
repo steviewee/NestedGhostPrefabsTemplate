@@ -1,0 +1,33 @@
+{
+    "name": "NGPTemplate.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9a37866d3f5eb7d44a42a9f5409ad9fe",
+        "GUID:953adc2a6b8b4e3c8df5b728bcd546e9",
+        "GUID:b22c78a82d1694028a1cd64d013a017c",
+        "GUID:eb8cf780bf058694ebf7ec5cf5b8cfa3",
+        "GUID:20f8fb38544994b97b68d79a6c92b7c1",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:c38fb62397af04c51b143415e1db6d90",
+        "GUID:8819f35a0fc84499b990e90a4ca1911f",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:e666fb332bb8f492b9617801d3f9d47c",
+        "GUID:3438610b0a83016488db5062ec247a8d",
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:6bfefdf09ee6431fae75a6f5e06a0e89",
+        "GUID:dde4aa253ec0b874ba280d1bde6b5386",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:88106679169efff4da8dfa66d6ee5f32"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

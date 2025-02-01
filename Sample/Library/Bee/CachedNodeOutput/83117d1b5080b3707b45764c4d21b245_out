@@ -1,0 +1,119 @@
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(128,1): info NetCode: Begin Processing assembly Zhorman.NestedGhostPrefabs.Runtime.Misc
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TemplateFileProvider.cs(98,1): info NetCode: Ignoring AdditionalFile 'D:\Unity\Sample\Library/Bee/artifacts/1900b0aE.dag/Zhorman.NestedGhostPrefabs.Runtime.Misc.UnityAdditionalFile.txt' as it is not a NetCode type!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(287,1): info NetCode: Parsing field (Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsConstrainedBodyPairDefaultVariant.Entities, Unity.Physics.EntityPair)
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(287,1): info NetCode: Parsing field (Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsConstrainedBodyPairDefaultVariant.EnableCollision, int)
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(188,1): info NetCode: Generating serializer for variant Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsConstrainedBodyPairDefaultVariant for type Unity.Physics.PhysicsConstrainedBodyPair.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsConstrainedBodyPairDefaultVariant' found Template for field 'EntityB' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsConstrainedBodyPairDefaultVariant' found Template for field 'EntityA' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsConstrainedBodyPairDefaultVariant' found Template for field 'EnableCollision' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(287,1): info NetCode: Parsing field (Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsJointCompanionDefaultVariant.JointEntity, Unity.Entities.Entity)
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(188,1): info NetCode: Generating serializer for variant Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsJointCompanionDefaultVariant for type Unity.Physics.PhysicsJointCompanion.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointCompanionDefaultVariant' found Template for field 'JointEntity' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(287,1): info NetCode: Parsing field (Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsJointDefaultVariant.m_BodyAFromJoint, Unity.Physics.BodyFrame)
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(287,1): info NetCode: Parsing field (Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsJointDefaultVariant.m_BodyBFromJoint, Unity.Physics.BodyFrame)
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(287,1): info NetCode: Parsing field (Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsJointDefaultVariant.m_Version, byte)
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(287,1): info NetCode: Parsing field (Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsJointDefaultVariant.m_JointType, Unity.Physics.JointType)
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(287,1): info NetCode: Parsing field (Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsJointDefaultVariant.m_Constraints, Unity.Physics.ConstraintBlock3)
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(188,1): info NetCode: Generating serializer for variant Zhorman.NestedGhostPrefabs.Runtime.Components.PhysicsJointDefaultVariant for type Unity.Physics.PhysicsJoint.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'Position' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=0 composite=True smoothing=3 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'Axis' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=0 composite=True smoothing=3 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'PerpendicularAxis' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=0 composite=True smoothing=3 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'm_Version' with GhostField configuration 'Type:System.Byte Key:System.Byte (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'm_JointType' with GhostField configuration 'Type:Unity.Physics.JointType Key:System.Byte (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'x' with GhostField configuration 'Type:System.Boolean Key:System.Boolean (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueBool.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'y' with GhostField configuration 'Type:System.Boolean Key:System.Boolean (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueBool.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'z' with GhostField configuration 'Type:System.Boolean Key:System.Boolean (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueBool.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'Type' with GhostField configuration 'Type:Unity.Physics.ConstraintType Key:System.Byte (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'Min' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'Max' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'SpringFrequency' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'DampingRatio' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'SpringDamping' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'MaxImpulse' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'Target' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Misc_Generated_Unity_Physics_PhysicsJointDefaultVariant' found Template for field 'Length' with GhostField configuration 'Type:System.Byte Key:System.Byte (quantized=0 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(144,1): info NetCode: End Processing assembly Zhorman.NestedGhostPrefabs.Runtime.Misc.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(145,1): info NetCode: Timing:
+Total: 64.2556 msec
+
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(269,58): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(284,58): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(299,58): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(348,17): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(359,17): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(370,17): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(408,13): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(408,55): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(423,13): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(423,55): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(438,13): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(438,55): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(1214,72): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(1214,114): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(1239,72): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(1239,114): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(1264,72): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'
+NetCodeSourceGenerator\Unity.NetCode.Generators.NetCodeSourceGenerator\Zhorman.NestedGhostPrefabs.Runtime.Misc\14847743803739045328_PhysicsJointDefaultVariantSerializer.cs(1264,114): warning CS0618: 'Constraint.SpringDamping' is obsolete: 'SpringDamping has been deprecated (RemovedAfter 2023-05-09). Use DampingRatio instead. (UnityUpgradable) -> DampingRatio'

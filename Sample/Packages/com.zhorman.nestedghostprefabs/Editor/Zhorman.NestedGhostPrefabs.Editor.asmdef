@@ -1,0 +1,34 @@
+{
+    "name": "Zhorman.NestedGhostPrefabs.Editor",
+    "rootNamespace": "Zhorman.NestedGhostPrefabs",
+    "references": [
+        "GUID:eb8cf780bf058694ebf7ec5cf5b8cfa3",
+        "GUID:c38fb62397af04c51b143415e1db6d90",
+        "GUID:953adc2a6b8b4e3c8df5b728bcd546e9",
+        "GUID:b22c78a82d1694028a1cd64d013a017c",
+        "GUID:20f8fb38544994b97b68d79a6c92b7c1",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:8819f35a0fc84499b990e90a4ca1911f",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:5f3cf485eb0554709a8abbeace890c86",
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:3438610b0a83016488db5062ec247a8d",
+        "GUID:de576b8655c77814cad2f99799ae743b",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e00140a815de944528348782854abe39",
+        "GUID:c0a9c9c16ecc94114bf00ab06319d22b",
+        "GUID:6bfefdf09ee6431fae75a6f5e06a0e89",
+        "GUID:e0cd26848372d4e5c891c569017e11f1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

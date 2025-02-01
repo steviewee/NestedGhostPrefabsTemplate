@@ -1,0 +1,3094 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    ALINE:
+    - Drawing.DrawingSettings
+    ALINE.dll:
+    - Drawing.DrawingManager
+    - Drawing.DrawingSettings
+    QFSW.QC.UI.dll:
+    - QFSW.QC.UI.BlurShaderController
+    - QFSW.QC.UI.DraggableUI
+    - QFSW.QC.UI.DynamicCanvasScaler
+    - QFSW.QC.UI.ResizableUI
+    - QFSW.QC.UI.ZoomUIController
+    QFSW.QC.dll:
+    - QFSW.QC.QuantumConsole
+    - QFSW.QC.QuantumKeyConfig
+    - QFSW.QC.QuantumLocalization
+    - QFSW.QC.QuantumTheme
+    - QFSW.QC.SuggestionDisplay
+    Unity.DedicatedServer.MultiplayerRoles.Editor.dll:
+    - Unity.Multiplayer.Editor.ContentSelectionSettings
+    - Unity.Multiplayer.Editor.MultiplayerRolesSettings
+    Unity.Entities.Build.dll:
+    - Unity.Entities.Build.EntitiesClientSettings
+    Unity.Entities.Editor.dll:
+    - Unity.Entities.Editor.HierarchyWindow
+    - Unity.Entities.Editor.SystemScheduleWindow
+    Unity.Entities.dll:
+    - Unity.Entities.DefaultWorldInitializationProxy
+    Unity.InputSystem:
+    - UnityEngine.InputSystem.InputActionAsset
+    - UnityEngine.InputSystem.InputActionReference
+    - UnityEngine.InputSystem.UI.InputSystemUIInputModule
+    Unity.InputSystem.dll:
+    - UnityEngine.InputSystem.InputActionAsset
+    - UnityEngine.InputSystem.InputActionReference
+    - UnityEngine.InputSystem.InputSettings
+    - UnityEngine.InputSystem.InputSystemObject
+    - UnityEngine.InputSystem.RemoteInputPlayerConnection
+    - UnityEngine.InputSystem.UI.InputSystemUIInputModule
+    Unity.Multiplayer.PlayMode.Configurations.Editor.dll:
+    - Unity.Multiplayer.PlayMode.Configurations.Editor.PlayModeManager
+    Unity.Multiplayer.PlayMode.Scenarios.Editor.dll:
+    - Unity.Multiplayer.PlayMode.Scenarios.Editor.ScenarioRunner
+    Unity.NetCode.Authoring.Hybrid.dll:
+    - Unity.NetCode.Hybrid.NetCodeClientAndServerSettings
+    - Unity.NetCode.Hybrid.NetCodeClientSettings
+    - Unity.NetCode.Hybrid.NetCodeServerSettings
+    Unity.NetCode.Editor.dll:
+    - Unity.NetCode.Editor.MultiplayerPlayModeWindow
+    Unity.Physics.Custom.dll:
+    - Unity.Physics.Authoring.PhysicsBodyAuthoring
+    - Unity.Physics.Authoring.PhysicsShapeAuthoring
+    Unity.RenderPipelines.Core.Runtime:
+    - UnityEngine.Rendering.UI.DebugUIHandlerBitField
+    - UnityEngine.Rendering.UI.DebugUIHandlerButton
+    - UnityEngine.Rendering.UI.DebugUIHandlerCanvas
+    - UnityEngine.Rendering.UI.DebugUIHandlerColor
+    - UnityEngine.Rendering.UI.DebugUIHandlerContainer
+    - UnityEngine.Rendering.UI.DebugUIHandlerEnumField
+    - UnityEngine.Rendering.UI.DebugUIHandlerEnumHistory
+    - UnityEngine.Rendering.UI.DebugUIHandlerFloatField
+    - UnityEngine.Rendering.UI.DebugUIHandlerFoldout
+    - UnityEngine.Rendering.UI.DebugUIHandlerGroup
+    - UnityEngine.Rendering.UI.DebugUIHandlerHBox
+    - UnityEngine.Rendering.UI.DebugUIHandlerIndirectFloatField
+    - UnityEngine.Rendering.UI.DebugUIHandlerIndirectToggle
+    - UnityEngine.Rendering.UI.DebugUIHandlerIntField
+    - UnityEngine.Rendering.UI.DebugUIHandlerMessageBox
+    - UnityEngine.Rendering.UI.DebugUIHandlerObject
+    - UnityEngine.Rendering.UI.DebugUIHandlerObjectList
+    - UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField
+    - UnityEngine.Rendering.UI.DebugUIHandlerPanel
+    - UnityEngine.Rendering.UI.DebugUIHandlerPersistentCanvas
+    - UnityEngine.Rendering.UI.DebugUIHandlerProgressBar
+    - UnityEngine.Rendering.UI.DebugUIHandlerRow
+    - UnityEngine.Rendering.UI.DebugUIHandlerToggle
+    - UnityEngine.Rendering.UI.DebugUIHandlerToggleHistory
+    - UnityEngine.Rendering.UI.DebugUIHandlerUIntField
+    - UnityEngine.Rendering.UI.DebugUIHandlerVBox
+    - UnityEngine.Rendering.UI.DebugUIHandlerValue
+    - UnityEngine.Rendering.UI.DebugUIHandlerValueTuple
+    - UnityEngine.Rendering.UI.DebugUIHandlerVector2
+    - UnityEngine.Rendering.UI.DebugUIHandlerVector3
+    - UnityEngine.Rendering.UI.DebugUIHandlerVector4
+    - UnityEngine.Rendering.UI.UIFoldout
+    - UnityEngine.Rendering.Volume
+    - UnityEngine.Rendering.VolumeProfile
+    Unity.RenderPipelines.Core.Runtime.dll:
+    - UnityEngine.Rendering.ProbeVolumesOptions
+    - UnityEngine.Rendering.Volume
+    - UnityEngine.Rendering.VolumeProfile
+    Unity.RenderPipelines.Universal.Editor.dll:
+    - UnityEditor.Rendering.Universal.UniversalProjectSettings
+    Unity.RenderPipelines.Universal.Runtime:
+    - UnityEngine.Rendering.Universal.Bloom
+    - UnityEngine.Rendering.Universal.ColorAdjustments
+    - UnityEngine.Rendering.Universal.DepthOfField
+    - UnityEngine.Rendering.Universal.Tonemapping
+    - UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
+    - UnityEngine.Rendering.Universal.WhiteBalance
+    Unity.RenderPipelines.Universal.Runtime.dll:
+    - UnityEngine.Rendering.Universal.Bloom
+    - UnityEngine.Rendering.Universal.ChannelMixer
+    - UnityEngine.Rendering.Universal.ChromaticAberration
+    - UnityEngine.Rendering.Universal.ColorAdjustments
+    - UnityEngine.Rendering.Universal.ColorCurves
+    - UnityEngine.Rendering.Universal.ColorLookup
+    - UnityEngine.Rendering.Universal.DecalRendererFeature
+    - UnityEngine.Rendering.Universal.DepthOfField
+    - UnityEngine.Rendering.Universal.FilmGrain
+    - UnityEngine.Rendering.Universal.LensDistortion
+    - UnityEngine.Rendering.Universal.LiftGammaGain
+    - UnityEngine.Rendering.Universal.MotionBlur
+    - UnityEngine.Rendering.Universal.PaniniProjection
+    - UnityEngine.Rendering.Universal.PostProcessData
+    - UnityEngine.Rendering.Universal.ScreenSpaceLensFlare
+    - UnityEngine.Rendering.Universal.ShadowsMidtonesHighlights
+    - UnityEngine.Rendering.Universal.SplitToning
+    - UnityEngine.Rendering.Universal.Tonemapping
+    - UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
+    - UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineGlobalSettings
+    - UnityEngine.Rendering.Universal.UniversalRendererData
+    - UnityEngine.Rendering.Universal.Vignette
+    - UnityEngine.Rendering.Universal.WhiteBalance
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.Scenes.dll:
+    - Unity.Scenes.SubScene
+    Unity.Services.Authentication.PlayerAccounts:
+    - Unity.Services.Authentication.PlayerAccounts.UnityPlayerAccountSettings
+    Unity.Services.Multiplayer.Editor.Matchmaker.Authoring.dll:
+    - Unity.Services.Multiplayer.Editor.Matchmaker.Authoring.Model.MatchmakerAsset
+    Unity.Services.Multiplayer.Multiplay.Authoring.Editor.dll:
+    - Unity.Services.Multiplay.Authoring.Editor.Assets.MultiplayConfigAsset
+    Unity.SpellPaint.Misc:
+    - Unity.SpellPaint.Misc.ConnectionStatusScreen
+    - Unity.SpellPaint.Misc.Crosshair
+    - Unity.SpellPaint.Misc.DirectConnectPopUp
+    - Unity.SpellPaint.Misc.GameManager
+    - Unity.SpellPaint.Misc.InputSystemManager
+    - Unity.SpellPaint.Misc.LoadingScreen
+    - Unity.SpellPaint.Misc.MainGameObjectCamera
+    - Unity.SpellPaint.Misc.MainMenu
+    - Unity.SpellPaint.Misc.MobileGamepadBehaviour
+    - Unity.SpellPaint.Misc.PauseMenu
+    - Unity.SpellPaint.Misc.RespawnScreen
+    - Unity.SpellPaint.Misc.ServicesSettings
+    - Unity.SpellPaint.Misc.SessionCodePopUp
+    - Unity.SpellPaint.Misc.SessionInfo
+    - Unity.SpellPaint.Misc.TouchScreenBehaviour
+    Unity.SpellPaint.Misc.dll:
+    - Unity.SpellPaint.Misc.CameraTrain
+    - Unity.SpellPaint.Misc.ConnectionStatusScreen
+    - Unity.SpellPaint.Misc.Crosshair
+    - Unity.SpellPaint.Misc.DirectConnectPopUp
+    - Unity.SpellPaint.Misc.GameManager
+    - Unity.SpellPaint.Misc.InputSystemManager
+    - Unity.SpellPaint.Misc.LoadingScreen
+    - Unity.SpellPaint.Misc.MainGameObjectCamera
+    - Unity.SpellPaint.Misc.MainMenu
+    - Unity.SpellPaint.Misc.MobileGamepadBehaviour
+    - Unity.SpellPaint.Misc.PauseMenu
+    - Unity.SpellPaint.Misc.RespawnScreen
+    - Unity.SpellPaint.Misc.ServicesSettings
+    - Unity.SpellPaint.Misc.SessionCodePopUp
+    - Unity.SpellPaint.Misc.SessionInfo
+    - Unity.SpellPaint.Misc.TouchScreenBehaviour
+    Unity.Splines.Editor.dll:
+    - UnityEditor.Splines.CreateSplineTool
+    - UnityEditor.Splines.SelectionContext
+    Unity.Splines.dll:
+    - UnityEngine.Splines.SplineContainer
+    Unity.TextMeshPro:
+    - TMPro.TMP_ColorGradient
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_InputField
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshProUGUI
+    Unity.Tutorials.Core.Editor.dll:
+    - Unity.Tutorials.Core.Editor.TutorialWindow
+    - Unity.Tutorials.Core.Editor.WindowCache
+    Unity.VisualEffectGraph.Runtime.dll:
+    - UnityEngine.VFX.VFXRuntimeResources
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.CommandLineTest.RunData
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.EventTrigger
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
+    - UnityEngine.UI.VerticalLayoutGroup
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.EventTrigger
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.RectMask2D
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
+    - UnityEngine.UI.VerticalLayoutGroup
+  serializedClasses:
+    ALINE:
+    - Drawing.DrawingSettings/Settings
+    QFSW.QC:
+    - QFSW.QC.CollectionFormatter
+    - QFSW.QC.ModifierKeyCombo
+    - QFSW.QC.TypeColorFormatter
+    Unity.Entities:
+    - Unity.Entities.Hash128
+    Unity.InputSystem:
+    - UnityEngine.InputSystem.InputAction
+    - UnityEngine.InputSystem.InputActionMap
+    - UnityEngine.InputSystem.InputBinding
+    - UnityEngine.InputSystem.InputControlScheme
+    - UnityEngine.InputSystem.InputControlScheme/DeviceRequirement
+    - UnityEngine.InputSystem.InputSettings/iOSSettings
+    - UnityEngine.InputSystem.iOS.PrivacyDataUsage
+    Unity.Mathematics:
+    - Unity.Mathematics.float3
+    - Unity.Mathematics.float4
+    - Unity.Mathematics.quaternion
+    - Unity.Mathematics.uint4
+    Unity.RenderPipelines.Core.Runtime:
+    - UnityEngine.Rendering.APVLeakReductionModeParameter
+    - UnityEngine.Rendering.BoolParameter
+    - UnityEngine.Rendering.ClampedFloatParameter
+    - UnityEngine.Rendering.ClampedIntParameter
+    - UnityEngine.Rendering.ColorParameter
+    - UnityEngine.Rendering.FloatParameter
+    - UnityEngine.Rendering.IncludeAdditionalRPAssets
+    - UnityEngine.Rendering.MinFloatParameter
+    - UnityEngine.Rendering.NoInterpTextureParameter
+    - UnityEngine.Rendering.ProbeVolumeBakingResources
+    - UnityEngine.Rendering.ProbeVolumeBlendingTextureMemoryBudget
+    - UnityEngine.Rendering.ProbeVolumeDebugResources
+    - UnityEngine.Rendering.ProbeVolumeGlobalSettings
+    - UnityEngine.Rendering.ProbeVolumeRuntimeResources
+    - UnityEngine.Rendering.ProbeVolumeSHBands
+    - UnityEngine.Rendering.ProbeVolumeSceneData
+    - UnityEngine.Rendering.ProbeVolumeTextureMemoryBudget
+    - UnityEngine.Rendering.RenderGraphGlobalSettings
+    - UnityEngine.Rendering.RenderGraphModule.Util.RenderGraphUtilsResources
+    - UnityEngine.Rendering.RenderPipelineGraphicsSettingsContainer
+    - UnityEngine.Rendering.STP/RuntimeResources
+    - UnityEngine.Rendering.SerializedDictionary`2
+    - UnityEngine.Rendering.ShaderStrippingSetting
+    - UnityEngine.Rendering.TextureCurve
+    - UnityEngine.Rendering.TextureCurveParameter
+    - UnityEngine.Rendering.TextureParameter
+    - UnityEngine.Rendering.UI.DebugUIPrefabBundle
+    - UnityEngine.Rendering.Vector2Parameter
+    - UnityEngine.Rendering.Vector3Parameter
+    - UnityEngine.Rendering.Vector4Parameter
+    Unity.RenderPipelines.GPUDriven.Runtime:
+    - UnityEngine.Rendering.GPUResidentDrawerResources
+    Unity.RenderPipelines.Universal.Runtime:
+    - UnityEngine.Rendering.Universal.DBufferSettings
+    - UnityEngine.Rendering.Universal.DecalScreenSpaceSettings
+    - UnityEngine.Rendering.Universal.DecalSettings
+    - UnityEngine.Rendering.Universal.DepthOfFieldModeParameter
+    - UnityEngine.Rendering.Universal.DownscaleParameter
+    - UnityEngine.Rendering.Universal.FilmGrainLookupParameter
+    - UnityEngine.Rendering.Universal.HDRACESPresetParameter
+    - UnityEngine.Rendering.Universal.MotionBlurModeParameter
+    - UnityEngine.Rendering.Universal.MotionBlurQualityParameter
+    - UnityEngine.Rendering.Universal.NeutralRangeReductionModeParameter
+    - UnityEngine.Rendering.Universal.PostProcessData/ShaderResources
+    - UnityEngine.Rendering.Universal.PostProcessData/TextureResources
+    - UnityEngine.Rendering.Universal.RenderGraphSettings
+    - UnityEngine.Rendering.Universal.Renderer2DResources
+    - UnityEngine.Rendering.Universal.ScreenSpaceLensFlareResolutionParameter
+    - UnityEngine.Rendering.Universal.ScriptableRendererData/DebugShaderResources
+    - UnityEngine.Rendering.Universal.ScriptableRendererData/ProbeVolumeResources
+    - UnityEngine.Rendering.Universal.StencilStateData
+    - UnityEngine.Rendering.Universal.TemporalAA/Settings
+    - UnityEngine.Rendering.Universal.TonemappingModeParameter
+    - UnityEngine.Rendering.Universal.URPDefaultVolumeProfileSettings
+    - UnityEngine.Rendering.Universal.URPShaderStrippingSetting
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset/TextureResources
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineDebugShaders
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorAssets
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorMaterials
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorShaders
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineRuntimeShaders
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineRuntimeTextures
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineRuntimeXRResources
+    - UnityEngine.Rendering.Universal.UniversalRendererResources
+    Unity.Splines:
+    - UnityEngine.Splines.BezierKnot
+    - UnityEngine.Splines.KnotLinkCollection
+    - UnityEngine.Splines.Spline
+    - UnityEngine.Splines.Spline/MetaData
+    - UnityEngine.Splines.SplineDataDictionary`1
+    Unity.TextMeshPro:
+    - TMPro.FaceInfo_Legacy
+    - TMPro.FontAssetCreationSettings
+    - TMPro.KerningTable
+    - TMPro.LigatureSubstitutionRecord
+    - TMPro.TMP_Character
+    - TMPro.TMP_FontFeatureTable
+    - TMPro.TMP_FontWeightPair
+    - TMPro.TMP_Glyph
+    - TMPro.TMP_InputField/OnChangeEvent
+    - TMPro.TMP_InputField/SelectionEvent
+    - TMPro.TMP_InputField/SubmitEvent
+    - TMPro.TMP_InputField/TextSelectionEvent
+    - TMPro.TMP_InputField/TouchScreenKeyboardEvent
+    - TMPro.TMP_Sprite
+    - TMPro.TMP_SpriteCharacter
+    - TMPro.TMP_SpriteGlyph
+    - TMPro.TMP_Style
+    - TMPro.VertexGradient
+    UnityEngine.CoreModule:
+    - UnityEngine.Bounds
+    - UnityEngine.Events.ArgumentCache
+    - UnityEngine.Events.PersistentCallGroup
+    - UnityEngine.Events.PersistentListenerMode
+    - UnityEngine.Events.UnityEvent
+    - UnityEngine.RectOffset
+    - UnityEngine.Rendering.RenderPipelineGraphicsSettingsCollection
+    UnityEngine.TextCoreFontEngineModule:
+    - UnityEngine.TextCore.FaceInfo
+    - UnityEngine.TextCore.Glyph
+    - UnityEngine.TextCore.GlyphMetrics
+    - UnityEngine.TextCore.GlyphRect
+    - UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord
+    - UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord
+    - UnityEngine.TextCore.LowLevel.GlyphValueRecord
+    UnityEngine.TextCoreTextEngineModule:
+    - UnityEngine.TextCore.Text.FontAssetCreationEditorSettings
+    - UnityEngine.TextCore.Text.FontFeatureTable
+    - UnityEngine.TextCore.Text.FontWeightPair
+    UnityEngine.UI:
+    - UnityEngine.EventSystems.EventTrigger/Entry
+    - UnityEngine.EventSystems.EventTrigger/TriggerEvent
+    - UnityEngine.UI.AnimationTriggers
+    - UnityEngine.UI.Button/ButtonClickedEvent
+    - UnityEngine.UI.ColorBlock
+    - UnityEngine.UI.FontData
+    - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+    - UnityEngine.UI.Navigation
+    - UnityEngine.UI.ScrollRect/ScrollRectEvent
+    - UnityEngine.UI.Scrollbar/ScrollEvent
+    - UnityEngine.UI.SpriteState
+    - UnityEngine.UI.Toggle/ToggleEvent
+    UnityEngine.UIElementsModule:
+    - UnityEngine.UIElements.Button/UxmlFactory
+    - UnityEngine.UIElements.Button/UxmlSerializedData
+    - UnityEngine.UIElements.DynamicAtlasSettings
+    - UnityEngine.UIElements.Label/UxmlFactory
+    - UnityEngine.UIElements.Label/UxmlSerializedData
+    - UnityEngine.UIElements.ProgressBar/UxmlFactory
+    - UnityEngine.UIElements.ProgressBar/UxmlSerializedData
+    - UnityEngine.UIElements.Slider/UxmlFactory
+    - UnityEngine.UIElements.Slider/UxmlSerializedData
+    - UnityEngine.UIElements.StyleComplexSelector
+    - UnityEngine.UIElements.StyleProperty
+    - UnityEngine.UIElements.StyleRule
+    - UnityEngine.UIElements.StyleSelector
+    - UnityEngine.UIElements.StyleSelectorPart
+    - UnityEngine.UIElements.StyleSheet/ImportStruct
+    - UnityEngine.UIElements.StyleSheets.Dimension
+    - UnityEngine.UIElements.StyleSheets.ScalableImage
+    - UnityEngine.UIElements.StyleValueHandle
+    - UnityEngine.UIElements.TextField/UxmlFactory
+    - UnityEngine.UIElements.TextField/UxmlSerializedData
+    - UnityEngine.UIElements.Toggle/UxmlFactory
+    - UnityEngine.UIElements.Toggle/UxmlSerializedData
+    - UnityEngine.UIElements.UxmlNamespaceDefinition
+    - UnityEngine.UIElements.UxmlRootElementFactory
+    - UnityEngine.UIElements.VisualElement/UxmlFactory
+    - UnityEngine.UIElements.VisualElement/UxmlSerializedData
+    - UnityEngine.UIElements.VisualElementAsset
+  methodsToPreserve:
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerButton
+    methodName: OnAction
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerPanel
+    methodName: OnScrollbarClicked
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerPanel
+    methodName: OnScrollbarClicked
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerIntField
+    methodName: OnIncrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerIntField
+    methodName: OnDecrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerIntField
+    methodName: OnDecrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerIntField
+    methodName: OnIncrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerUIntField
+    methodName: OnDecrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerUIntField
+    methodName: OnIncrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerUIntField
+    methodName: OnIncrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerUIntField
+    methodName: OnDecrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField
+    methodName: OnDecrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField
+    methodName: OnIncrement
+  - assembly: Unity.RenderPipelines.Core.Runtime
+    fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerPanel
+    methodName: ResetDebugManager
+  sceneClasses:
+    Assets/Scenes/GameResources.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 23220}
+    - Class: 114
+      Script: {instanceID: 24178}
+    - Class: 114
+      Script: {instanceID: 25128}
+    - Class: 114
+      Script: {instanceID: 25372}
+    - Class: 114
+      Script: {instanceID: 25752}
+    - Class: 114
+      Script: {instanceID: 26746}
+    - Class: 114
+      Script: {instanceID: 26820}
+    - Class: 114
+      Script: {instanceID: 27352}
+    - Class: 114
+      Script: {instanceID: 27494}
+    - Class: 114
+      Script: {instanceID: 27880}
+    - Class: 114
+      Script: {instanceID: 29350}
+    - Class: 114
+      Script: {instanceID: 29860}
+    - Class: 114
+      Script: {instanceID: 30102}
+    - Class: 114
+      Script: {instanceID: 33178}
+    - Class: 114
+      Script: {instanceID: 34108}
+    - Class: 114
+      Script: {instanceID: 35204}
+    - Class: 114
+      Script: {instanceID: 35478}
+    - Class: 114
+      Script: {instanceID: 35630}
+    - Class: 114
+      Script: {instanceID: 37014}
+    - Class: 114
+      Script: {instanceID: 37322}
+    - Class: 114
+      Script: {instanceID: 39596}
+    - Class: 114
+      Script: {instanceID: 40722}
+    - Class: 114
+      Script: {instanceID: 41528}
+    - Class: 114
+      Script: {instanceID: 41732}
+    - Class: 114
+      Script: {instanceID: 41918}
+    - Class: 114
+      Script: {instanceID: 42044}
+    - Class: 114
+      Script: {instanceID: 43538}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/GameScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 35204}
+    - Class: 114
+      Script: {instanceID: 36356}
+    - Class: 114
+      Script: {instanceID: 37890}
+    - Class: 114
+      Script: {instanceID: 38540}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 215
+      Script: {instanceID: 0}
+    - Class: 220
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/Scenes/MainMenu.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 72
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 984}
+    - Class: 114
+      Script: {instanceID: 986}
+    - Class: 114
+      Script: {instanceID: 988}
+    - Class: 114
+      Script: {instanceID: 1000}
+    - Class: 114
+      Script: {instanceID: 1010}
+    - Class: 114
+      Script: {instanceID: 1012}
+    - Class: 114
+      Script: {instanceID: 22878}
+    - Class: 114
+      Script: {instanceID: 23488}
+    - Class: 114
+      Script: {instanceID: 23608}
+    - Class: 114
+      Script: {instanceID: 23926}
+    - Class: 114
+      Script: {instanceID: 23944}
+    - Class: 114
+      Script: {instanceID: 23996}
+    - Class: 114
+      Script: {instanceID: 24336}
+    - Class: 114
+      Script: {instanceID: 24580}
+    - Class: 114
+      Script: {instanceID: 24696}
+    - Class: 114
+      Script: {instanceID: 24734}
+    - Class: 114
+      Script: {instanceID: 24808}
+    - Class: 114
+      Script: {instanceID: 24810}
+    - Class: 114
+      Script: {instanceID: 25170}
+    - Class: 114
+      Script: {instanceID: 25372}
+    - Class: 114
+      Script: {instanceID: 25622}
+    - Class: 114
+      Script: {instanceID: 25752}
+    - Class: 114
+      Script: {instanceID: 26116}
+    - Class: 114
+      Script: {instanceID: 26716}
+    - Class: 114
+      Script: {instanceID: 26820}
+    - Class: 114
+      Script: {instanceID: 26918}
+    - Class: 114
+      Script: {instanceID: 27102}
+    - Class: 114
+      Script: {instanceID: 27228}
+    - Class: 114
+      Script: {instanceID: 27494}
+    - Class: 114
+      Script: {instanceID: 27616}
+    - Class: 114
+      Script: {instanceID: 27686}
+    - Class: 114
+      Script: {instanceID: 27792}
+    - Class: 114
+      Script: {instanceID: 27830}
+    - Class: 114
+      Script: {instanceID: 27880}
+    - Class: 114
+      Script: {instanceID: 28036}
+    - Class: 114
+      Script: {instanceID: 28796}
+    - Class: 114
+      Script: {instanceID: 29350}
+    - Class: 114
+      Script: {instanceID: 29848}
+    - Class: 114
+      Script: {instanceID: 29860}
+    - Class: 114
+      Script: {instanceID: 31020}
+    - Class: 114
+      Script: {instanceID: 31126}
+    - Class: 114
+      Script: {instanceID: 31522}
+    - Class: 114
+      Script: {instanceID: 31638}
+    - Class: 114
+      Script: {instanceID: 31706}
+    - Class: 114
+      Script: {instanceID: 31752}
+    - Class: 114
+      Script: {instanceID: 31868}
+    - Class: 114
+      Script: {instanceID: 32000}
+    - Class: 114
+      Script: {instanceID: 32026}
+    - Class: 114
+      Script: {instanceID: 32220}
+    - Class: 114
+      Script: {instanceID: 33178}
+    - Class: 114
+      Script: {instanceID: 33498}
+    - Class: 114
+      Script: {instanceID: 33650}
+    - Class: 114
+      Script: {instanceID: 33682}
+    - Class: 114
+      Script: {instanceID: 33686}
+    - Class: 114
+      Script: {instanceID: 34108}
+    - Class: 114
+      Script: {instanceID: 34540}
+    - Class: 114
+      Script: {instanceID: 35002}
+    - Class: 114
+      Script: {instanceID: 35420}
+    - Class: 114
+      Script: {instanceID: 36018}
+    - Class: 114
+      Script: {instanceID: 36132}
+    - Class: 114
+      Script: {instanceID: 36390}
+    - Class: 114
+      Script: {instanceID: 37532}
+    - Class: 114
+      Script: {instanceID: 38136}
+    - Class: 114
+      Script: {instanceID: 38742}
+    - Class: 114
+      Script: {instanceID: 38846}
+    - Class: 114
+      Script: {instanceID: 39244}
+    - Class: 114
+      Script: {instanceID: 39420}
+    - Class: 114
+      Script: {instanceID: 39596}
+    - Class: 114
+      Script: {instanceID: 40338}
+    - Class: 114
+      Script: {instanceID: 40480}
+    - Class: 114
+      Script: {instanceID: 40490}
+    - Class: 114
+      Script: {instanceID: 40518}
+    - Class: 114
+      Script: {instanceID: 40584}
+    - Class: 114
+      Script: {instanceID: 40592}
+    - Class: 114
+      Script: {instanceID: 40722}
+    - Class: 114
+      Script: {instanceID: 40778}
+    - Class: 114
+      Script: {instanceID: 40988}
+    - Class: 114
+      Script: {instanceID: 41132}
+    - Class: 114
+      Script: {instanceID: 41208}
+    - Class: 114
+      Script: {instanceID: 41432}
+    - Class: 114
+      Script: {instanceID: 41918}
+    - Class: 114
+      Script: {instanceID: 42044}
+    - Class: 114
+      Script: {instanceID: 42436}
+    - Class: 114
+      Script: {instanceID: 42600}
+    - Class: 114
+      Script: {instanceID: 42718}
+    - Class: 114
+      Script: {instanceID: 43636}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: f9a8895200533849355f694993c06657
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: UniversalRenderPipelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 95c8a8c68e664d4868755f06e7c55997
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: DepthOfField
+  - hash:
+      serializedVersion: 2
+      Hash: 48daf5cddbb324a789d4cddcc29e4c1a
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: QolNameAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 36afd2b3383c61ddf671e7c29c69c388
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXInputMouseBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 39ce22f88c4c9c795740cdb54f992ad6
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXInputTouchBinder
+  - hash:
+      serializedVersion: 2
+      Hash: a4983ba79f3a05b29b6d0fb9dfc858d9
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: FirstPersonCharacterAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: cf62aad97f6c2dd5d482e2509c6c9528
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 704db84e8463429f101776496ff06b10
+    assemblyName: Unity.Entities.Hybrid
+    namespaceName: Unity.Entities
+    className: StaticOptimizeEntity
+  - hash:
+      serializedVersion: 2
+      Hash: 61319095e40c0cbfeeb89f99a1cdd4fb
+    assemblyName: Unity.RenderPipelines.Universal.2D.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: CinemachineUniversalPixelPerfect
+  - hash:
+      serializedVersion: 2
+      Hash: ed8e62f07ec878233f5493a335003493
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI
+    className: VirtualMouseInput
+  - hash:
+      serializedVersion: 2
+      Hash: b72d9c057c0f9460abf04218f4cc4f0e
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerMessageBox
+  - hash:
+      serializedVersion: 2
+      Hash: c8cc0752f5bc386555a8ce94862df696
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: SetPlayerToDebugColorAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 3e8ae0dbb326093128ef17efc25a8992
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: SpectatorSpawnPointAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 9907870747c8ed918394b823c45e5ca7
+    assemblyName: Unity.Services.Authentication.PlayerAccounts
+    namespaceName: Unity.Services.Authentication.PlayerAccounts
+    className: UnityPlayerAccountSettings
+  - hash:
+      serializedVersion: 2
+      Hash: e061bdd0159a784b8acc0552dd0f40bb
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputDebuggerWindow
+  - hash:
+      serializedVersion: 2
+      Hash: e7e95903ca66d58e1a7cbd71f824e16d
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 0370b9f95798139b666659c7e1be6147
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI
+    className: BaseInputOverride
+  - hash:
+      serializedVersion: 2
+      Hash: a99948370cb62915b64297d3c5a5d4a1
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: MobileGamepadBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 4392bfff79efe0630144f16ea4d656ab
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerObjectList
+  - hash:
+      serializedVersion: 2
+      Hash: daeac1347f8039f61cd4017ff33bd3c6
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI
+    className: InputSystemUIInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 8018bb92ee8279f6f8c650a1aa6b26e7
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: InputCommandRequestAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 41a4330d64355a48e810a26e26c8dbcd
+    assemblyName: QFSW.QC.UI
+    namespaceName: QFSW.QC.UI
+    className: DynamicCanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: f99ce8526ec148f29051c0a9dced1a03
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: UniversalRenderPipelineGlobalSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 135748dd2728bcccad432bb410d36773
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: FirstPersonCharacterViewAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: bfa9d6dfbc3c74a843a3b197bdcc6639
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 0c3c745987952634c1537a3762499e58
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: ImmitatedParentAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 0dd14e314956b0d0d83ffcffe60aa46f
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro
+    className: TMP_DigitValidator
+  - hash:
+      serializedVersion: 2
+      Hash: 20a120e55ad3ab65556328d5fd8309dd
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 2deddcdd5f664164bb803747210cbba2
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerRow
+  - hash:
+      serializedVersion: 2
+      Hash: 05db6860a8948e0330980a9253f066cf
+    assemblyName: Unity.Physics.Hybrid
+    namespaceName: Unity.Physics.Authoring
+    className: CustomPhysicsBodyTagNames
+  - hash:
+      serializedVersion: 2
+      Hash: 2bbd05175d4cdd21e24f9716cdd24f83
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.XR
+    className: TrackedPoseDriver
+  - hash:
+      serializedVersion: 2
+      Hash: 1362033cd491d66ad3cc206af29cc0de
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: Volume
+  - hash:
+      serializedVersion: 2
+      Hash: 2514f5f4d8bf1874d96637b73ba731dc
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: PauseMenu
+  - hash:
+      serializedVersion: 2
+      Hash: c0098df74635d27708943c034d51a719
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: EntityFolowerAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: da281dc879c7932e0c9669da88ae40c0
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 6e87f29f8e5dc527647795733ea7c61d
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: DirectConnectPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 9507f221948bbd40853cc0ec75374d07
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: LensFlareComponentSRP
+  - hash:
+      serializedVersion: 2
+      Hash: 84056876ce8b14176cdd7f82aaefd21a
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXVisibilityEventBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 41faa17721b2adb389f0f6cc943c2fe4
+    assemblyName: Unity.NetCode.Hybrid
+    namespaceName: Unity.NetCode.Hybrid
+    className: GhostAnimationController
+  - hash:
+      serializedVersion: 2
+      Hash: 4ee1e5f285c826248e282a4df1635b19
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ChromaticAberration
+  - hash:
+      serializedVersion: 2
+      Hash: b33a2008a9718c799c87d5fd2032380a
+    assemblyName: Unity.NetCode.Authoring.Hybrid
+    namespaceName: Unity.NetCode
+    className: NetCodeDebugConfigAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 05afd034bf7a074278a40ad9e97d8db4
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: Vignette
+  - hash:
+      serializedVersion: 2
+      Hash: 4ee82fc6438e9fcbe06cdf5e2c1116d3
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: ObjectSpin
+  - hash:
+      serializedVersion: 2
+      Hash: f294bb42d237ff3f282e8652c9f7b475
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX
+    className: SetSpawnTime
+  - hash:
+      serializedVersion: 2
+      Hash: 0bd2044f31f948e8e457585f08846860
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXTerrainBinder
+  - hash:
+      serializedVersion: 2
+      Hash: f157096180c1ecb2f7fe7774b57267f5
+    assemblyName: Unity.NetCode.Physics.Hybrid
+    namespaceName: Unity.NetCode.Editor
+    className: NetCodePhysicsInspector
+  - hash:
+      serializedVersion: 2
+      Hash: 53e329840e6d03aebec76623c3b054db
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: e6ee7dccba41ae87d10e3d922c6cb71c
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: ef19274111491b6b8bcc6fd227f656f5
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerIndirectFloatField
+  - hash:
+      serializedVersion: 2
+      Hash: fc0a9a681d29388386a9abf3f08b024a
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: Benchmark03
+  - hash:
+      serializedVersion: 2
+      Hash: 5fd1709e4154666e250cfc2d5d6e3edb
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: SpawnPointAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: d4b968135f38855075545c460a2152c4
+    assemblyName: Unity.ScriptableBuildPipeline
+    namespaceName: UnityEngine.Build.Pipeline
+    className: CompatibilityAssetBundleManifest
+  - hash:
+      serializedVersion: 2
+      Hash: dd9dda1dfd39e605c49e72003342ef5d
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 0126f347d98d02424c7e030465a71ead
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.HID.Editor
+    className: HIDDescriptorWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 66496b917404bcb20f6bf50861c1adc6
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ProbeVolumeBakingSet
+  - hash:
+      serializedVersion: 2
+      Hash: dbe4f05d59170430398f6453d7253fe5
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerWidget
+  - hash:
+      serializedVersion: 2
+      Hash: 6d971045f8e67def7430d0b6f3cb0700
+    assemblyName: Unity.RenderPipelines.GPUDriven.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: DisallowSmallMeshCulling
+  - hash:
+      serializedVersion: 2
+      Hash: 9042d1d0d47f02095d6ab1c513737164
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: GameManager
+  - hash:
+      serializedVersion: 2
+      Hash: 33f160a5c07e580c29aba2bd1e4db811
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: e5d2e3eb0cc8b8f0fac6ecfed1c17465
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: HealthAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: de8e34fffe62b77ca47bae273d0414ba
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ObsoleteProbeVolumeAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 622df10b5a3ef20dde205f39b4bd1c77
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: CustomPhysicsMaterialTagNames
+  - hash:
+      serializedVersion: 2
+      Hash: c4de0ff7e075dd89c9fed5913dd775d2
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro
+    className: TMP_PhoneNumberValidator
+  - hash:
+      serializedVersion: 2
+      Hash: c4cdb902228df56d5b2b639d6a6bbd3c
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: PlayerInputManager
+  - hash:
+      serializedVersion: 2
+      Hash: e987953190eb4c12cf19df790566dc2c
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 15517a3eaa2e8951acd29fc435bbc970
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering
+    className: EntitiesGraphicsStatsDrawer
+  - hash:
+      serializedVersion: 2
+      Hash: 3f7fd8381bb04913fb787b19a7ae65ad
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX
+    className: IncrementStripIndexOnStart
+  - hash:
+      serializedVersion: 2
+      Hash: 0bc7ef1b7516f21320ec49bfd31eef2e
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI
+    className: TrackedDeviceRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: aef0d0885a03f8f85e8bff9026f542df
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXTransformBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 33656f83bb0079184b2206a69690ec46
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 9104447b683bf70406fa01f12ecb564a
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: ea5e0cb2f62c5bafc3dfb7bcdc9595e1
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: DebugUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: a92561298b80715aa69e8fa770123cb5
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI.Editor
+    className: InputSystemUIInputModuleEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 095fb569bb43a1505544eebd33a90567
+    assemblyName: Unity.Services.Core.Components
+    namespaceName: Unity.Services.Core.Components
+    className: ServicesInitialization
+  - hash:
+      serializedVersion: 2
+      Hash: 6b2b20d5352b9f1294595326f54bd3c2
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerObjectPopupField
+  - hash:
+      serializedVersion: 2
+      Hash: 191c3402cd43ee08f0a96795440c294e
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: AdvancedDropdownWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 961d21b21cfa7e27642ba2358432049f
+    assemblyName: QFSW.QC.UI
+    namespaceName: QFSW.QC.UI
+    className: BlurShaderController
+  - hash:
+      serializedVersion: 2
+      Hash: fce99de7ab700e0c4c466ebd583aa306
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ColorLookup
+  - hash:
+      serializedVersion: 2
+      Hash: 915204dac8acad99f076d6e72ada0a0f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 72561d2e822b466169cd12a3b9f9ae0c
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: VertexShakeB
+  - hash:
+      serializedVersion: 2
+      Hash: 95426d463074947dcbffc797c44e779c
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI.Editor
+    className: StandaloneInputModuleModuleEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 9f27b94c3c17b0da0d39632b61a4b711
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: Bloom
+  - hash:
+      serializedVersion: 2
+      Hash: 72af07e0b54f6153bffe16171de38b2a
+    assemblyName: Unity.NetCode.Physics.Hybrid
+    namespaceName: Unity.NetCode
+    className: NetCodePhysicsConfig
+  - hash:
+      serializedVersion: 2
+      Hash: c0a2b4d13675f08bfb211e044c334e68
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerIntField
+  - hash:
+      serializedVersion: 2
+      Hash: 090b4014813624206b1713d7decd7b0d
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXInputKeyBinder
+  - hash:
+      serializedVersion: 2
+      Hash: e63fe08659e7e4647a51098c666f8845
+    assemblyName: Unity.InputSystem
+    namespaceName: 
+    className: DownloadableSample
+  - hash:
+      serializedVersion: 2
+      Hash: afb7b65d28d5a7423e69a1b076be0064
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 677c3942c405dc2c82d7180d2234ae43
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: InputPrefabHolderAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: f623b9577c8f49f40863f1e353104a5a
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: ConnectionStatusScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 11b31834f771c7c8356eb82b395665d8
+    assemblyName: QFSW.QC.Demo
+    namespaceName: QFSW.QC.Demo
+    className: Robot
+  - hash:
+      serializedVersion: 2
+      Hash: ea790ee1331e9202607e531fa60b0e94
+    assemblyName: QFSW.QC
+    namespaceName: QFSW.QC
+    className: SuggestionDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 3b5263a98bcc71d9a9d1d78a31b34ced
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: d41ab9b5ea92474f9c0a6937a0607ce1
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 0f6b6107168e347e854c0107aa8cb9fb
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerEnumHistory
+  - hash:
+      serializedVersion: 2
+      Hash: 7d026ae582dc02c5edc3fc23b8c03ff7
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerVector3
+  - hash:
+      serializedVersion: 2
+      Hash: 1981decccddfde3e97fcfd6689332a6f
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: WarpTextExample
+  - hash:
+      serializedVersion: 2
+      Hash: b72839eb6e4350778dc879d98832aa2b
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerHBox
+  - hash:
+      serializedVersion: 2
+      Hash: 67ba98f8a8977f3e60e5f0e049923033
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerColor
+  - hash:
+      serializedVersion: 2
+      Hash: bc8c525e39b6fddab1a15c5b47455669
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ScreenSpaceLensFlare
+  - hash:
+      serializedVersion: 2
+      Hash: d0cdd713f9bf4e6a625d9e7804deca42
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: d2bee9fe4a1a6bbaab9f74aeb6a934e2
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: PostProcessData
+  - hash:
+      serializedVersion: 2
+      Hash: 01727a040aa965d7fae41c3c1e1d9ee5
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: PaniniProjection
+  - hash:
+      serializedVersion: 2
+      Hash: 12b19a6c0a7a07f18cb8a52b26c1f0ee
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: RotationalMotor
+  - hash:
+      serializedVersion: 2
+      Hash: a9a9985bc600ab81586355efc506ee17
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: WhiteBalance
+  - hash:
+      serializedVersion: 2
+      Hash: bb087f9b323dc196cc1a985185699515
+    assemblyName: QFSW.QC.Extras
+    namespaceName: QFSW.QC.Extras
+    className: CoroutineCommands
+  - hash:
+      serializedVersion: 2
+      Hash: 6f9cf99f3040c3443b06a6bcd1d6b151
+    assemblyName: Unity.NetCode.Authoring.Hybrid
+    namespaceName: Unity.NetCode
+    className: GhostAuthoringInspectionComponent
+  - hash:
+      serializedVersion: 2
+      Hash: faccd05cbe8b025f92660e27a727fe62
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXPositionBinder
+  - hash:
+      serializedVersion: 2
+      Hash: c7461ddb2926b22edcbffe17bf941824
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: DecalProjector
+  - hash:
+      serializedVersion: 2
+      Hash: 32c0da32523efbb456931cb175c21584
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: CameraRotationReceiverAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6dc3d79712ca4934f6d50c80f010b1
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 8af62edefc8e0e27a0934f076ca84a80
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: LoadingScreen
+  - hash:
+      serializedVersion: 2
+      Hash: cf32d98954e63b8e30e9334b152e9b8e
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 08e2446b65d2da7600c6bbdd36de0e56
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: InputSystemObject
+  - hash:
+      serializedVersion: 2
+      Hash: 3e21c4fc1790539a1a5e53c6dae8099a
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ChannelMixer
+  - hash:
+      serializedVersion: 2
+      Hash: b24bae4511d404331640e62f8b8c2ed0
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ProbeVolumesOptions
+  - hash:
+      serializedVersion: 2
+      Hash: a3e45baaaa1a8e381ec9e53cc6b7e5c3
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering
+    className: URPMaterialPropertyEmissionColorAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: e203d9cb300d6ead33fb8c1ca3e7899f
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: MainCameraAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 2a2eef56932c95206cbf2fb724fb40af
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXMultiplePositionBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 99ceaa9036d4122da482a3908ae9b09e
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: LegManagerAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: b2ba991e093af951959321a807d603eb
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: LegJointAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 8dff8e9853297d341afa0c11f9091b59
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 2ba5503def171efd088377e85d5a988e
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: URPCameraBinder
+  - hash:
+      serializedVersion: 2
+      Hash: fe0a072dbdcbca34d5003c5299de3aaf
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: SceneRenderPipeline
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc40a01667ca02b3354a4e7a61be082
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 9ed84ccc7f822799f8d08159e2a3e77d
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXMouseEventBinder
+  - hash:
+      serializedVersion: 2
+      Hash: bbbf93e762c4f3c9da3ad2d8fed9c5bf
+    assemblyName: Unity.Tutorials.Core
+    namespaceName: Unity.Tutorials.Core
+    className: SceneObjectGuid
+  - hash:
+      serializedVersion: 2
+      Hash: 4166580c620718548959a77fa7b43fc1
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TextMeshSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 80650a336b1067275ec2b9f9a3c5c831
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: InputInstanceAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 1f48d11d1a09cf489bd75fb11d85b30e
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering
+    className: URPMaterialPropertyBumpScaleAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: bc75926bfd3609757f7bf33ff766f026
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.EnhancedTouch
+    className: TouchSimulation
+  - hash:
+      serializedVersion: 2
+      Hash: 33eb495d99aa9bea4dbe8b4c4e02c7bb
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: InputActionReference
+  - hash:
+      serializedVersion: 2
+      Hash: 4878e735441f4041539853759559c86f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: e0cf060d3a0d1afae0c661ac42606ab8
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ProbeVolume
+  - hash:
+      serializedVersion: 2
+      Hash: 40be2ad159aa1a2b72ecc74cb38c7824
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.UI
+    className: MultiplayerEventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: df407479eeb09105c1b4c2c6ea5152d7
+    assemblyName: QFSW.QC
+    namespaceName: QFSW.QC
+    className: QuantumConsole
+  - hash:
+      serializedVersion: 2
+      Hash: 593a641cd7822a10b9a54aa9eb5c3d5e
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: Benchmark04
+  - hash:
+      serializedVersion: 2
+      Hash: d31318d8cc336ece3778e652f0eaff3d
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: ConfigurableEntityJointAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 6cf63e9dc888f92a3672d2e4db631c8e
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: PlayerInputManagerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 35e0b31791c377513b6fc7b9568c50cd
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: Benchmark02
+  - hash:
+      serializedVersion: 2
+      Hash: 3074afe1b03a0fb081e176a4ef1b9d09
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputActionAssetEditor
+  - hash:
+      serializedVersion: 2
+      Hash: b69e62cf54e8c2818e3a19b35426e4d4
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering
+    className: URPMaterialPropertySpecColorAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: eee6e7d87173dfcfbc54f1b3c9536c1c
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: PositionMotor
+  - hash:
+      serializedVersion: 2
+      Hash: 759b1fba6a02c8db4ed1884fb6038231
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: PhysicsShapeAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 113e54f67456d0e7754c0598ee2a6dd4
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ProbeVolumePerSceneData
+  - hash:
+      serializedVersion: 2
+      Hash: 28fd3d045acc780719a17f02073eb448
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: bb7bf8b2bae87001837685a4354c3b4d
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: LinearVelocityMotor
+  - hash:
+      serializedVersion: 2
+      Hash: 831a07ec3647706fc718cb04ae39f2c9
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXPropertyBinder
+  - hash:
+      serializedVersion: 2
+      Hash: e49f64f6c7006f2a8a0e7674b5de1fae
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputActionDebuggerWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 919dc7ec08f773fcae2d21a1e018bd99
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: MotionBlur
+  - hash:
+      serializedVersion: 2
+      Hash: 90cf308600fb4aeb677786843453ec55
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: RemoteInputPlayerConnection
+  - hash:
+      serializedVersion: 2
+      Hash: c833d8ddc320fe5153f6a88cef23c858
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerObject
+  - hash:
+      serializedVersion: 2
+      Hash: 5c2a5af4658ede896d072a8a641d706e
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ColorCurves
+  - hash:
+      serializedVersion: 2
+      Hash: 47f78e94e3df8d612cefa1307a19e2ce
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerValue
+  - hash:
+      serializedVersion: 2
+      Hash: 11bfd8e114b0cee733bd68200b989b01
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: UniversalRendererData
+  - hash:
+      serializedVersion: 2
+      Hash: 4fcf0bb4aff1d14a1dfcdedc4b07bd05
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 8d7ab1303b1c14da5fdd62bf96ca6e89
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: FreeCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 34bcbd4b9a8d1ee94b65669777a5e8b4
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXInputButtonBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 8703b6ae2b0eefd9dafbc44d8d333fb1
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 2be3311c714ed7d9f0acfbd89c026485
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXVelocityBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 1ab136900c0edaeeb49424c852595030
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 7a0bde3ac6d739f92105cfe5613df2e0
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: UniversalAdditionalCameraData
+  - hash:
+      serializedVersion: 2
+      Hash: cfd57a0aac9841f8523ed78b90dad14c
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: LimitDOFJoint
+  - hash:
+      serializedVersion: 2
+      Hash: ffb55648e59f437dfc8be428d413bc11
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: PhysicsRenderEntityAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 665da785348a8806bf1524fe10742a60
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TMP_UiFrameRateCounter
+  - hash:
+      serializedVersion: 2
+      Hash: a23545cac8344bed76b6201ab1caac3f
+    assemblyName: Unity.Entities.Hybrid
+    namespaceName: Unity.Entities.Hybrid.Baking
+    className: BakingOnlyEntityAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 5015c05a2113f320567617675a1ebe33
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputStateWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 7053e305cdc1eb560f4c3be49d3b5136
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 810e3c228b295cc60c4de2cdd94b18cb
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: ceeb6c51b89f022a3deb7b3408c66745
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TMP_TextEventCheck
+  - hash:
+      serializedVersion: 2
+      Hash: c058ff8faaff3e0da63b5433ebfb40bc
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: Tonemapping
+  - hash:
+      serializedVersion: 2
+      Hash: 953fad5c5ab1e7bb889420c434db93fe
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerFloatField
+  - hash:
+      serializedVersion: 2
+      Hash: fe9b3a96e367e781b4d4e3ba0e7f980f
+    assemblyName: Unity.Physics.Hybrid
+    namespaceName: Unity.Physics.Authoring
+    className: PhysicsWorldIndexAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: a908b098f2284663c0b9130e88844772
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerCanvas
+  - hash:
+      serializedVersion: 2
+      Hash: ed8a2d7bd2bfc416870cc5dce0156f53
+    assemblyName: Unity.NetCode
+    namespaceName: Unity.NetCode
+    className: NetCodeConfig
+  - hash:
+      serializedVersion: 2
+      Hash: 1adcaac4d228e27d8a6e6865b42bb281
+    assemblyName: Unity.NetCode.Authoring.Hybrid
+    namespaceName: Unity.NetCode.Hybrid
+    className: GhostPresentationGameObjectAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 9fb1c3ab48b256d508ecddd967f98652
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: VertexZoom
+  - hash:
+      serializedVersion: 2
+      Hash: 711ba963e2b245a25de71beeaeeeb658
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerFoldout
+  - hash:
+      serializedVersion: 2
+      Hash: bcdcdd84d3658c66a878566480b83303
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: RespawnScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 5bfe8959c732880951564f0f57d088b5
+    assemblyName: Unity.NetCode.Authoring.Hybrid
+    namespaceName: Unity.NetCode.Hybrid
+    className: NetCodeServerSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 5c2d5ba2d7afb5f723653c8938b3cab0
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering
+    className: URPMaterialPropertyCutoffAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 9f355e210e7950e47ad1391c7681435b
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerEnumField
+  - hash:
+      serializedVersion: 2
+      Hash: 2f7c5a72e62c897b03caf5577f613c31
+    assemblyName: Unity.Physics.Hybrid
+    namespaceName: Unity.Physics.Authoring
+    className: PhysicsStepAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: aa349b22cd61b9e8488d736f82590d6b
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TMP_TextInfoDebugTool
+  - hash:
+      serializedVersion: 2
+      Hash: a9f0153fc675e1f4ade818b83e4ff0c1
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: VolumeComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 209c1378f23c45375951c1715943159f
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXTriggerEventBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 13f262cc0741566a7ab72682984bc3e1
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: fe936ef73c959d9b28656a03ea706468
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: NestedGhostAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 1b532b8f43c5f802c0b02f299797b51d
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering
+    className: URPMaterialPropertyBaseColorAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 3586e7f4fd3cb20328f9458141273dab
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ScreenSpaceAmbientOcclusion
+  - hash:
+      serializedVersion: 2
+      Hash: 4ef0a8791cadda0f3f4bbb49f45729ae
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering
+    className: URPMaterialPropertySmoothnessAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: fd4cc9037d66a0b564a5bf23671a88e7
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ForwardRendererData
+  - hash:
+      serializedVersion: 2
+      Hash: a624e8926762e588c5e4bdc7ed77080f
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXHierarchyAttributeMapBinder
+  - hash:
+      serializedVersion: 2
+      Hash: bc2817f5c675eb8095d5eb6417e9d4ee
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: DeathVFXSpawnPointAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: a90f6a00b23520788be7d89ee3b0773d
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 09a39c6c2ede06987f7aada9c0dc2f3d
+    assemblyName: Unity.NetCode.Authoring.Hybrid
+    namespaceName: Unity.NetCode
+    className: DefaultSmoothingActionUserParamsAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 316a80e50d01e01462b487845b3e56c5
+    assemblyName: ALINE
+    namespaceName: Drawing
+    className: AlineURPRenderPassFeature
+  - hash:
+      serializedVersion: 2
+      Hash: e0489cb02bdeee1fc85b0d1a0dbcf838
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXEnabledBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 8ed1980cbef176651b026ecb679ad294
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXRigidBodyCollisionEventBinder
+  - hash:
+      serializedVersion: 2
+      Hash: af31f892ddc15b77e926364b0734b4c5
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: PhysicsBodyAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: f5df081962c06a171f380eb236cd1f3c
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerVBox
+  - hash:
+      serializedVersion: 2
+      Hash: 73675adc007e7957f78d7d8c10a8d8ec
+    assemblyName: QFSW.QC.Demo
+    namespaceName: QFSW.QC.Demo
+    className: RobotSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 215d2dc6ec6ea06728398ea39a103cb3
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.OnScreen
+    className: OnScreenStick
+  - hash:
+      serializedVersion: 2
+      Hash: 8e67a1986836ec8d709a50edb080db69
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: MainGameObjectCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 3133d2d7a207a2869570f7278712b999
+    assemblyName: QFSW.QC.Demo
+    namespaceName: QFSW.QC.Demo
+    className: Gate
+  - hash:
+      serializedVersion: 2
+      Hash: e8fd74e57e72e8e4ef28792881adb864
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerUIntField
+  - hash:
+      serializedVersion: 2
+      Hash: 58570e231c93c2f96918856759b81286
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 0e748c9cd15ef6c2e8edcc78433b5167
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: FirstPersonPlayerAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: e8d390bd9ecacc453a7500b90d0c0292
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 04f2d6a4db8a670aeb2c87d9ffd08865
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro
+    className: TMP_TextEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 531f26a132c8cc16e3b133a514a05b36
+    assemblyName: Unity.Entities
+    namespaceName: Unity.Entities
+    className: DefaultWorldInitializationProxy
+  - hash:
+      serializedVersion: 2
+      Hash: c659af921b42d18f19d9c86571b3b7a5
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: BaseWeaponAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: f2573bd1ab40ea8dbb27ba5bdbebb6b0
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXSphereBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 5a4aa2850fe11587f47e34c270c7fd22
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 063d081ef61d0f16f68a8e2c3299c2cd
+    assemblyName: Unity.Scenes
+    namespaceName: Unity.Scenes
+    className: ReferencedUnityObjects
+  - hash:
+      serializedVersion: 2
+      Hash: 86344100c716167fb86137c127ca9eee
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputActionImporterEditor
+  - hash:
+      serializedVersion: 2
+      Hash: f75e8effb9eb243438513dd706a7ea59
+    assemblyName: Unity.Services.Authentication
+    namespaceName: Unity.Services.Authentication.Components
+    className: PlayerAuthentication
+  - hash:
+      serializedVersion: 2
+      Hash: 8ed5daadd237bb82e132790f75ffccaf
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: PlayerInputEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 8776dacbdcc7484bffc8c1165f48fe99
+    assemblyName: Unity.Physics.Hybrid
+    namespaceName: Unity.Physics.Authoring
+    className: PhysicsDebugDisplayAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 75c58bb66a23cc5448f619acdcb77b6d
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: InputSystemManager
+  - hash:
+      serializedVersion: 2
+      Hash: 5d0c0c2229e7a13c1280eae2fa2dcfc2
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: PrismaticJoint
+  - hash:
+      serializedVersion: 2
+      Hash: 8a74ef7527d87ce2645ad21325373215
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: FreeHingeJoint
+  - hash:
+      serializedVersion: 2
+      Hash: 55060a7bf226ac385ce19ebd450f199f
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UIElements
+    className: PanelRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 951f9e7d423272c0c6f9812c1cbcfeaf
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems
+    className: PrefabProjectileAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: a691df0173e6f62b462fa4385ba6ee9f
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: BodyTagAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: ed8bac09ffacadca9994789e381c69ce
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TMP_TextSelector_A
+  - hash:
+      serializedVersion: 2
+      Hash: 3a0ab35f3e74555a1b25592a40fdaf5e
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: GameResourcesAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 1deda86fe7ffd8587afcfe68a02d034c
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: EnvMapAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: b74d389139d74858151cf121f46302c6
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: VfxAttributeSettingsAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: c2832710582515aecae3008b455d3343
+    assemblyName: ALINE
+    namespaceName: Drawing
+    className: DrawingSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 9d44391589cc78aa26eb85bc02a7c666
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: SurfaceFinderTargetAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 616d72f9f5985d05ccaadd47c1dd5cda
+    assemblyName: Unity.Scenes
+    namespaceName: Unity.Scenes
+    className: SubScene
+  - hash:
+      serializedVersion: 2
+      Hash: 1553f209ae0b2d5d3a35685fca55f9c3
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 9eccc4340fcd994586e0dcb134c4612e
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TeleType
+  - hash:
+      serializedVersion: 2
+      Hash: dfa86bd8976bfbc2c54bc0b25493830d
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: SpawnerAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 1f83eef13a79f436d9b929359da21ab6
+    assemblyName: Unity.RenderPipelines.Universal.2D.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ShadowCaster2D
+  - hash:
+      serializedVersion: 2
+      Hash: d4c7cb9e46d192844a5b295d6a3f8dc5
+    assemblyName: Unity.RenderPipelines.GPUDriven.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: DisallowGPUDrivenRendering
+  - hash:
+      serializedVersion: 2
+      Hash: 34c460e2a1212a65006aeb34bf46d26f
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: OwningPlayerAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 10ffd5579f941e0f4946756d18f1a9df
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerValueTuple
+  - hash:
+      serializedVersion: 2
+      Hash: 1a680d9a08de79b0d2c779e78c9843b4
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 5a25c7516fadef3552c99f55215749d0
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputDeviceDebuggerWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 71fb69e83f0be03fefb5aebad7a445b5
+    assemblyName: QFSW.QC
+    namespaceName: QFSW.QC
+    className: QuantumKeyConfig
+  - hash:
+      serializedVersion: 2
+      Hash: fc69e831d8c0d16bde61af0efd4bf330
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: CameraInputAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: f73e3a97805e1e671360c632c4565101
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: FilmGrain
+  - hash:
+      serializedVersion: 2
+      Hash: 4bb8dde37a6865c0f9a229c9eb9a6cc9
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXInputAxisBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 7e21ee37e6eac8e20f2c9c29196e4baa
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering
+    className: BuiltinMaterialPropertyUnity_SHCoefficientsAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: e4b7831f0a9e91f079eb40ea24427631
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ColorAdjustments
+  - hash:
+      serializedVersion: 2
+      Hash: 415316b9bbc4e339c901a46503e2790b
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: VolumeProfile
+  - hash:
+      serializedVersion: 2
+      Hash: ac414255bcea5a2026f08574a33087bf
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering
+    className: URPMaterialPropertyMetallicAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 2f43860e745f8edade7bd381809e537b
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: UniversalAdditionalLightData
+  - hash:
+      serializedVersion: 2
+      Hash: 24af424a437762b0c98a2238a41b2825
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerButton
+  - hash:
+      serializedVersion: 2
+      Hash: 0f19765290d81f9e93eff7828a091d40
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: PlayerInput
+  - hash:
+      serializedVersion: 2
+      Hash: 8063a4e88f424160e71b7fba891d82c5
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: PrefabProjectileWeaponAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: d0caa48b5fe6778ce3f0de7aec45c4e6
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: SkewTextExample
+  - hash:
+      serializedVersion: 2
+      Hash: ae7c8c8ef8c0977f94206d0b93dc9f0b
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: SpellPainterInputAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: a8d1298073b3dfa3a6e629693bdb8a56
+    assemblyName: Unity.Entities.Hybrid
+    namespaceName: Unity.Entities.Hybrid.Baking
+    className: LinkedEntityGroupAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 3594d8e9fcbd74e51eec80efbf16c599
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: LensDistortion
+  - hash:
+      serializedVersion: 2
+      Hash: 9bfa1b8c855ae2d382ea830eedda9ebb
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: ColliderCounterAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: ff5172bc81dc2da4c7de2a8bf56dc4b8
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputActionsEditorWindow
+  - hash:
+      serializedVersion: 2
+      Hash: f52c7c523d1ee02865b5344a35b7c08c
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: PhysicsMaterialTemplate
+  - hash:
+      serializedVersion: 2
+      Hash: 00df14103e546b23c2e507bd7b7c8a44
+    assemblyName: QFSW.QC
+    namespaceName: QFSW.QC
+    className: QuantumTheme
+  - hash:
+      serializedVersion: 2
+      Hash: 64756cee21909a7a459d5e05844baa97
+    assemblyName: Unity.RenderPipelines.Universal.2D.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: CompositeShadowCaster2D
+  - hash:
+      serializedVersion: 2
+      Hash: 8f60f2b52cfa5f9146ac0cce68970788
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXPlaneBinder
+  - hash:
+      serializedVersion: 2
+      Hash: e165b24c7a6cf0e7675a0034582604ae
+    assemblyName: QFSW.QC.UI
+    namespaceName: QFSW.QC.UI
+    className: ZoomUIController
+  - hash:
+      serializedVersion: 2
+      Hash: 8fe6d4f095ce838f5396d1867140a9b6
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: CameraSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: a7d1c9456fc41028f7d872021c120d83
+    assemblyName: QFSW.QC.Demo
+    namespaceName: QFSW.QC.Demo
+    className: RobotCollector
+  - hash:
+      serializedVersion: 2
+      Hash: 0f51e32674f6cb7a3f7ddc175c8bf3d3
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: SessionCodePopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1852e983176516e62c889567b45060
+    assemblyName: Unity.Physics.Hybrid
+    namespaceName: Unity.Physics.Authoring
+    className: CustomPhysicsProxyAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: d497e277ee09923aa44c51901a8f68f9
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: LensFlareDataSRP
+  - hash:
+      serializedVersion: 2
+      Hash: c79c1247c397fe48256d3b4221e8fe45
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: RigidJoint
+  - hash:
+      serializedVersion: 2
+      Hash: 0a4ef3c4e73b2f3eef913e2325924084
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: InputSettings
+  - hash:
+      serializedVersion: 2
+      Hash: f8f40a6b8edabeed90c888f219a58994
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: CameraRequestAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 360d3bc2983b155d4ce0473cf344b4e5
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXUISliderBinder
+  - hash:
+      serializedVersion: 2
+      Hash: fe5f50ac4e241447007fe3485a876e70
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: CameraTrain
+  - hash:
+      serializedVersion: 2
+      Hash: b810dfd26c061161a980f9a956f9a116
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ScreenSpaceShadows
+  - hash:
+      serializedVersion: 2
+      Hash: d3bece132a2b48e63d78047dece48ba7
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ChatController
+  - hash:
+      serializedVersion: 2
+      Hash: 9dc274eab7228631e90d4757b13b768a
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: ShadowsMidtonesHighlights
+  - hash:
+      serializedVersion: 2
+      Hash: 3645b97da6b9d55f246a57b0a5e2e8b7
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXLightBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 049f6aa84fe1cb5359c9338e96d0b07e
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: UIFoldout
+  - hash:
+      serializedVersion: 2
+      Hash: c64f3d4cdad602cc8b5544670e196e39
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: PrefabScalerAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 8bbce9932f67ad8e7f4eefec87800f94
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 7fdd3ee28e9042c3ec83463d0bb3b230
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TMP_FrameRateCounter
+  - hash:
+      serializedVersion: 2
+      Hash: f6ead49eaba7fedacdc776f08720dc4e
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: ModifyJointLimitsAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 79c2a02684d91e3ef9f2414e94f229ac
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: SurfaceNodeAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 745c234e274606053ecac394bbce2be6
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXUIDropdownBinder
+  - hash:
+      serializedVersion: 2
+      Hash: b838cbada0b03f1cfbaebc8e124f4f39
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.OnScreen
+    className: OnScreenButton
+  - hash:
+      serializedVersion: 2
+      Hash: ee989c3b1cc22890bc1a094097348594
+    assemblyName: Unity.Splines
+    namespaceName: UnityEngine.Splines
+    className: SplineContainer
+  - hash:
+      serializedVersion: 2
+      Hash: fe1a6d2cc0c7bf649fadcc9b8fd81079
+    assemblyName: Unity.Entities.Hybrid
+    namespaceName: Unity.Entities
+    className: SceneSectionComponent
+  - hash:
+      serializedVersion: 2
+      Hash: feb522b95b6c0b811b1396946ce3c387
+    assemblyName: ALINE
+    namespaceName: Drawing
+    className: DrawingManager
+  - hash:
+      serializedVersion: 2
+      Hash: e416782d95a812c5b5b00e9b103a8e94
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: CameraController
+  - hash:
+      serializedVersion: 2
+      Hash: 5f70b16cd9acc9c1dd88b51b6ed89669
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerIndirectToggle
+  - hash:
+      serializedVersion: 2
+      Hash: c78d9809ed1932ffa97a43d546d482a9
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: PlayerSpawnerTagAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 5874b789cd9832847c61ebfa803213af
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UIElements
+    className: PanelEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 656900f3eacc1cd944adb71a70bd9396
+    assemblyName: Unity.RenderPipelines.Universal.2D.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: PixelPerfectCamera
+  - hash:
+      serializedVersion: 2
+      Hash: d771cabeaa363771c54f6c41824f7abb
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: LiftGammaGain
+  - hash:
+      serializedVersion: 2
+      Hash: cb49ce80d4b69cb2ed30d83bfcb146ae
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerBitField
+  - hash:
+      serializedVersion: 2
+      Hash: 81dee98c80c06845e2b8e737186aa9e4
+    assemblyName: Unity.NetCode.Authoring.Hybrid
+    namespaceName: Unity.NetCode
+    className: DisableAutomaticPrespawnSectionReportingAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 5ebc58ec194dd44630b25fcc270ad4af
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 2cc5af0f17cef9c717df88c8c7e4c9aa
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine
+    className: LightAnchor
+  - hash:
+      serializedVersion: 2
+      Hash: 61649e9db2267051ccdd7f8e8186b816
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: NameTagAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 5520165ec93204b0c950152f46b65d73
+    assemblyName: QFSW.QC.Extras
+    namespaceName: QFSW.QC.Extras
+    className: KeyBinderModule
+  - hash:
+      serializedVersion: 2
+      Hash: 5dc51b0140815ee83ba613dce32f5b12
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerPersistentCanvas
+  - hash:
+      serializedVersion: 2
+      Hash: f4e3d81fec863aae5bb834bf0afd1d6a
+    assemblyName: Unity.Physics.Hybrid
+    namespaceName: Unity.Physics.Authoring
+    className: ForceUniqueColliderAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 95cec85248d20787021305cfe145ab16
+    assemblyName: Unity.Splines
+    namespaceName: UnityEngine.Splines
+    className: SplineInstantiate
+  - hash:
+      serializedVersion: 2
+      Hash: b5007673bbbdb9d12597a1d8201370f5
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: bfa7b02929a38887f8affc3ccaa5d3ec
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering.Authoring
+    className: MaterialColor
+  - hash:
+      serializedVersion: 2
+      Hash: a6d4760c1aaaf3fc6e618d120234abd0
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX
+    className: SpawnOverDistance
+  - hash:
+      serializedVersion: 2
+      Hash: d5cd7f207e91ca8336c65a577a6fb2a0
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 998cc2470363f7d7e9098a99047e4c6f
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: RagdollJoint
+  - hash:
+      serializedVersion: 2
+      Hash: f9c04d84b5c956affb0d8d28fd321b33
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: LimitedDistanceJoint
+  - hash:
+      serializedVersion: 2
+      Hash: 00bbd9db8634496d079d17711b2ff7c4
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 51603d25dc8c39903df98901361f0b73
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: DecalRendererFeature
+  - hash:
+      serializedVersion: 2
+      Hash: 4364e539a50916689fa6b146cf97073a
+    assemblyName: Unity.CharacterController
+    namespaceName: Unity.CharacterController
+    className: TrackedTransformAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 52840a82fb83b3a7df342e354c4815e4
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TMPro_InstructionOverlay
+  - hash:
+      serializedVersion: 2
+      Hash: 11a492830b189fafb9ed2f7afa464c56
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: SimpleScript
+  - hash:
+      serializedVersion: 2
+      Hash: 711fcd430ced52d118771c9c71e13238
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: RenderObjects
+  - hash:
+      serializedVersion: 2
+      Hash: 8d5318ed8488b1fe17c08044ce1b8309
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: c9b1ea3bf987a2e780a24849503ca72e
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: Benchmark01_UGUI
+  - hash:
+      serializedVersion: 2
+      Hash: e18dfd2b913b09fbbb2405165a2e6a44
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 5382156409d7c462c67822a5ee8d6c85
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerToggleHistory
+  - hash:
+      serializedVersion: 2
+      Hash: d85292b1d7ddb10e5a2df5d221dcba86
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem
+    className: InputActionAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 185e7bacfbbc5defefa609c70f7ff4ce
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 5e5f0e35bccaa4a94ac2604487feca42
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: TouchScreenBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 3b868c2f11b2258f8650f5aa4c412f56
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: MainMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 7b9350fa040aa5304dd6a083a1416231
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: 
+    className: MaterialOverride
+  - hash:
+      serializedVersion: 2
+      Hash: ab3d19695db8289414a06e6d45fd6c8e
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: ShaderPropAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: fea660240dde52e08bd79d154e104e15
+    assemblyName: Unity.RenderPipelines.Universal.2D.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: Light2D
+  - hash:
+      serializedVersion: 2
+      Hash: 540882762544409cc4530e60db00e951
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: d8ce10189d59f6f6c46bf82d900fc926
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: JointModificatorAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 66c08f0eb97cf6c35dbcfd8b2b410598
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: ServicesSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 9e049b733b0eae729f988937b3643511
+    assemblyName: Unity.NetCode.Hybrid
+    namespaceName: Unity.NetCode.Hybrid
+    className: GhostPresentationGameObjectEntityOwner
+  - hash:
+      serializedVersion: 2
+      Hash: 3940f3c84a979a0485197947ec427ded
+    assemblyName: Unity.NetCode.Authoring.Hybrid
+    namespaceName: Unity.NetCode.Hybrid
+    className: NetCodeClientAndServerSettings
+  - hash:
+      serializedVersion: 2
+      Hash: e2734bcc7b3e94776ade5d59f54fec1e
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TMP_TextSelector_B
+  - hash:
+      serializedVersion: 2
+      Hash: ed2c59b75f8f3cd8df4cd4387d965e71
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerVector2
+  - hash:
+      serializedVersion: 2
+      Hash: 2541c03d117382d4ebbe0bb0775dd2dc
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerProgressBar
+  - hash:
+      serializedVersion: 2
+      Hash: 1be07c2aeee0f2166f4a4878361f4670
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: 
+    className: MaterialOverrideAsset
+  - hash:
+      serializedVersion: 2
+      Hash: f33b95fe9aa5580c1ff792b8447cc04e
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXUIToggleBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 5c21f4846181ee6e245db1fcfb62fc0e
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 418b67019f13f9684552f2693bae3971
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TextMeshProFloatingText
+  - hash:
+      serializedVersion: 2
+      Hash: a75a568ce902366f4e82fc98ca6108f5
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TMP_ExampleScript_01
+  - hash:
+      serializedVersion: 2
+      Hash: cde402e184a6ab530144506bc9d6a0af
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerVector4
+  - hash:
+      serializedVersion: 2
+      Hash: 3e626ee2732c5603bdeac3dcfd16c64d
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: RaycastProjectileWeaponAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 95082fa9564453548f075b59d154bc0d
+    assemblyName: QFSW.QC
+    namespaceName: QFSW.QC
+    className: QuantumLocalization
+  - hash:
+      serializedVersion: 2
+      Hash: 3619bbe901cd3d551eb5ea7cc6882b89
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXAudioSpectrumBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 0f0aac31c96b3aa77e7257a52d5f4826
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: NestedGhostInspectionAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: c4ae0ec287bc3cde0bc98e1a65f9cef7
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: VertexColorCycler
+  - hash:
+      serializedVersion: 2
+      Hash: ed40070d7d19cdd13a682a922087fb4f
+    assemblyName: Unity.Scenes
+    namespaceName: Unity.Scenes
+    className: AssetObjectManifest
+  - hash:
+      serializedVersion: 2
+      Hash: 216f6c07bfa250e44b3e8d62572474e8
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: Benchmark01
+  - hash:
+      serializedVersion: 2
+      Hash: 0814f85034902f3734f70fbf99b24c5c
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXRaycastBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 27fcf46f05da57849d306826fb32eb18
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: SplitToning
+  - hash:
+      serializedVersion: 2
+      Hash: 41e3942bc797b57638dedfe95e94f163
+    assemblyName: QFSW.QC.UI
+    namespaceName: QFSW.QC.UI
+    className: DraggableUI
+  - hash:
+      serializedVersion: 2
+      Hash: ea71e4d702bc45487822f0c4bcd6fe21
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: SpectatorControllerAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: b747f5d40674055dd70e18552f1b0447
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: e6b258489c88376c5869946b2735e7e5
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: d7d424ed392cf89bdce865cf7461334f
+    assemblyName: Unity.Splines
+    namespaceName: UnityEngine.Splines
+    className: SplineAnimate
+  - hash:
+      serializedVersion: 2
+      Hash: 5dfaceeb6aede322abb5cf3823cd76aa
+    assemblyName: Unity.NetCode
+    namespaceName: Unity.NetCode
+    className: OverrideAutomaticNetcodeBootstrap
+  - hash:
+      serializedVersion: 2
+      Hash: 972e420ef29739825ead1e90bfb3a7c5
+    assemblyName: Unity.NetCode.Authoring.Hybrid
+    namespaceName: Unity.NetCode.Hybrid
+    className: NetCodeClientSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 3e06b1ad08602aab1214650a0a820b04
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: HeadTagAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: b88e78b6860b6061b2c681ea9b80b6bf
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerToggle
+  - hash:
+      serializedVersion: 2
+      Hash: 1d830bc5cfaaf24301dffea2877f4bea
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: VertexShakeA
+  - hash:
+      serializedVersion: 2
+      Hash: db6133687572f9dc24f1fd4238ef9b83
+    assemblyName: Unity.TextMeshPro
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 2f4b2fd07d2c24bf150b206b830fcf02
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: AngularVelocityMotor
+  - hash:
+      serializedVersion: 2
+      Hash: bb5c28c48eb5368b6bea5df6921da150
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: SessionInfo
+  - hash:
+      serializedVersion: 2
+      Hash: dc31d211c7459841fe4f406ae2e51480
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: TextConsoleSimulator
+  - hash:
+      serializedVersion: 2
+      Hash: 10c17b309bdca62b4d7fbaf113ed4ca0
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 958c9a29b737a2ca0d47d64cbf0d5511
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Systems.Authoring
+    className: NameTagRequestAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: 58f6c91dc9977217e7536afccdb74f71
+    assemblyName: Unity.RenderPipelines.Core.Runtime
+    namespaceName: UnityEngine.Rendering
+    className: ProbeAdjustmentVolume
+  - hash:
+      serializedVersion: 2
+      Hash: 75a64e5c73e8796187bfb012035f803d
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX.Utility
+    className: VFXPreviousPositionBinder
+  - hash:
+      serializedVersion: 2
+      Hash: 8668b70b18eb7f5cd2dce04386848007
+    assemblyName: Assembly-CSharp
+    namespaceName: TMPro.Examples
+    className: VertexJitter
+  - hash:
+      serializedVersion: 2
+      Hash: 61268ab592453a893888fb08f8428c3f
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX
+    className: LoopAndDelay
+  - hash:
+      serializedVersion: 2
+      Hash: 502a0d788634601faaefeacfda55e23a
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: DropdownSample
+  - hash:
+      serializedVersion: 2
+      Hash: a1ac4c50e55874de16eee3db71aa9784
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: b3eb5d73cd07eeee371bb1b136d026d6
+    assemblyName: Unity.RenderPipelines.Universal.Runtime
+    namespaceName: 
+    className: FullScreenPassRendererFeature
+  - hash:
+      serializedVersion: 2
+      Hash: 9a242aecdaba57c346a8709f4722dd15
+    assemblyName: Unity.RenderPipelines.Universal.2D.Runtime
+    namespaceName: UnityEngine.Rendering.Universal
+    className: Renderer2DData
+  - hash:
+      serializedVersion: 2
+      Hash: ba6c9aa26ed565486681007ffdd6be6d
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: PhysicsCategoryNames
+  - hash:
+      serializedVersion: 2
+      Hash: 800d7bbf0edb0055aeacdbfbe84a84b8
+    assemblyName: Unity.InputSystem
+    namespaceName: UnityEngine.InputSystem.Editor
+    className: InputActionEditorWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 4e6d6ef71bc36f9a81011b3441ea2b5c
+    assemblyName: Unity.Entities.Graphics
+    namespaceName: Unity.Rendering
+    className: URPMaterialPropertyOcclusionStrengthAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: ba331fc935a6a1327554a41b7ff164fe
+    assemblyName: Unity.VisualEffectGraph.Runtime
+    namespaceName: UnityEngine.VFX
+    className: VFXRuntimeResources
+  - hash:
+      serializedVersion: 2
+      Hash: a92724c4e1002d866bab52586c7b926f
+    assemblyName: Unity.NetCode.Authoring.Hybrid
+    namespaceName: Unity.NetCode
+    className: GhostAuthoringComponent
+  - hash:
+      serializedVersion: 2
+      Hash: a9b1399205244fa0a073d32399513fe0
+    assemblyName: QFSW.QC.UI
+    namespaceName: QFSW.QC.UI
+    className: ResizableUI
+  - hash:
+      serializedVersion: 2
+      Hash: 004624126ad781325224b14b16943e94
+    assemblyName: Unity.SpellPaint.Systems.Authoring
+    namespaceName: Unity.SpellPaint.Authoring
+    className: RaycastProjectileAuthoring
+  - hash:
+      serializedVersion: 2
+      Hash: a880b1786c2c2b71fbc903597e591d98
+    assemblyName: Unity.SpellPaint.Misc
+    namespaceName: Unity.SpellPaint.Misc
+    className: Crosshair
+  - hash:
+      serializedVersion: 2
+      Hash: 1b530010f2091e92c6d83e25022dba3e
+    assemblyName: Unity.Splines
+    namespaceName: UnityEngine.Splines
+    className: SplineExtrude
+  - hash:
+      serializedVersion: 2
+      Hash: 69c7026f9d6ee0f7119c37d30184a408
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: BallAndSocketJoint
+  - hash:
+      serializedVersion: 2
+      Hash: 82dd296c087f593db81ff69a010820d8
+    assemblyName: Unity.Physics.Custom
+    namespaceName: Unity.Physics.Authoring
+    className: LimitedHingeJoint
+  platform: 19
+  scenePathNames:
+  - Assets/Scenes/MainMenu.unity
+  - Assets/Scenes/GameScene.unity
+  - Assets/Scenes/GameResources.unity
+  playerPath: D:/Unity/SpellPaint6/Builds/SpellPaint6.exe

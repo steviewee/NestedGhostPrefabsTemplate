@@ -1,0 +1,20 @@
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(128,1): info NetCode: Begin Processing assembly Zhorman.NestedGhostPrefabs.Runtime.Systems
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TemplateFileProvider.cs(98,1): info NetCode: Ignoring AdditionalFile 'D:\Unity\SpellPaint7\Library/Bee/artifacts/1900b0aE.dag/Zhorman.NestedGhostPrefabs.Runtime.Systems.UnityAdditionalFile.txt' as it is not a NetCode type!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Zhorman.NestedGhostPrefabs.Runtime.Systems.ImmitatedDeltaMatrix
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Zhorman.NestedGhostPrefabs.Runtime.Systems.ImmitatedDeltaMatrix
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Systems_Generated_Zhorman_NestedGhostPrefabs_Runtime_Systems_ImmitatedDeltaMatrix' found Template for field 'Position' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Systems_Generated_Zhorman_NestedGhostPrefabs_Runtime_Systems_ImmitatedDeltaMatrix' found Template for field 'Scale' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Systems_Generated_Zhorman_NestedGhostPrefabs_Runtime_Systems_ImmitatedDeltaMatrix' found Template for field 'Rotation' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Zhorman.NestedGhostPrefabs.Runtime.Systems.ImmitatedDeltaMatrix had its type hash reset, so recalculating it to 17959693519482066994!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(144,1): info NetCode: End Processing assembly Zhorman.NestedGhostPrefabs.Runtime.Systems.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(145,1): info NetCode: Timing:
+Total: 111.7454 msec

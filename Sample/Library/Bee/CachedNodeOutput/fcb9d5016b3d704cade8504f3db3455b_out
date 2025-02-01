@@ -1,0 +1,5 @@
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(128,1): info NetCode: Begin Processing assembly Zhorman.JointModificators.Runtime.Components
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TemplateFileProvider.cs(98,1): info NetCode: Ignoring AdditionalFile 'D:\Unity\Sample\Library/Bee/artifacts/1900b0aE.dag/Zhorman.JointModificators.Runtime.Components.UnityAdditionalFile.txt' as it is not a NetCode type!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(144,1): info NetCode: End Processing assembly Zhorman.JointModificators.Runtime.Components.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(145,1): info NetCode: Timing:
+Total: 17.6632 msec

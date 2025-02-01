@@ -1,0 +1,30 @@
+{
+  "name": "com.zhorman.jointmodificators",
+  "version": "1.0.0",
+  "displayName": "Joint Modificators",
+  "description": "An addon to the Unity.Physics package that adds a ConfigurableEntityJoint (ConfigurablePhysicsJoint but for PhysicsBodies), and a JointModificator that allows you to add components to joints (for an example - to make them predicted)",
+  "unity": "6000.0",
+  "unityRelease": "0b6",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.entities": "1.3.8",
+    "com.unity.physics": "1.3.8",
+    "com.unity.burst": "1.8.18"
+  },
+  "keywords": [
+    "entity",
+    "entities",
+    "physics",
+    "joints",
+    "ecs",
+    "dots",
+    "prefab"
+  ],
+  "author": {
+    "name": "Zhorman",
+    "email": "gs.kovalyov@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}

@@ -1,0 +1,987 @@
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(128,1): info NetCode: Begin Processing assembly Unity.NetCode.TestsUtils
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TemplateFileProvider.cs(98,1): info NetCode: Ignoring AdditionalFile 'D:\Unity\Sample\Library/Bee/artifacts/1900b0aE.dag/Unity.NetCode.TestsUtils.UnityAdditionalFile.txt' as it is not a NetCode type!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_IInputComponentData_Values
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\InputFactory.cs(36,1): info NetCode: Generating command data wrapper for $Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'x' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'y' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'z' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'x' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'y' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'z' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'x' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'x' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'y' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'y' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'z' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'z' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'w' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'IntValue' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'UIntValue' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'BoolValue' with GhostField configuration 'Type:System.Boolean Key:System.Boolean (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueBool.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'LongValue' with GhostField configuration 'Type:System.Int64 Key:System.Int64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueLong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'ULongValue' with GhostField configuration 'Type:System.UInt64 Key:System.UInt64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueULong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'Unquantized_FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'Unquantized_DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'Unquantized_Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'Unquantized_Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'Unquantized_Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'Unquantized_QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Values' found Template for field 'EntityValue' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.InputBufferData<Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_IInputComponentData_Values>
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(394,1): info NetCode: Generating input buffer command data for $Unity.NetCode.InputBufferData<Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_IInputComponentData_Values>!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'x' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'y' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'z' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'x' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'y' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'z' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'x' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'x' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'y' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'y' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'z' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'z' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'w' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'IntValue' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'UIntValue' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'BoolValue' with GhostField configuration 'Type:System.Boolean Key:System.Boolean (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueBool.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'LongValue' with GhostField configuration 'Type:System.Int64 Key:System.Int64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueLong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'ULongValue' with GhostField configuration 'Type:System.UInt64 Key:System.UInt64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueULong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'Unquantized_FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'Unquantized_DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'Unquantized_Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'Unquantized_Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'Unquantized_Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'Unquantized_QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_ValuesGhostGenTestUtils_GhostGenTestType_IInputComponentData_ValuesInputBufferData' found Template for field 'EntityValue' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(329,1): info NetCode: Adding SerializationStrategy for input buffer Unity.NetCode.InputBufferData<Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_IInputComponentData_Values>, which doesn't have any GhostFields, as we still need to store the GhostComponentAttribute data.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_IInputComponentData_Strings
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\InputFactory.cs(36,1): info NetCode: Generating command data wrapper for $Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_IInputComponentData_Strings
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Strings' found Template for field 'String32Value' with GhostField configuration 'Type:Unity.Collections.FixedString32Bytes Key:Unity.Collections.FixedString32Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Strings' found Template for field 'String64Value' with GhostField configuration 'Type:Unity.Collections.FixedString64Bytes Key:Unity.Collections.FixedString64Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString64Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Strings' found Template for field 'String128Value' with GhostField configuration 'Type:Unity.Collections.FixedString128Bytes Key:Unity.Collections.FixedString128Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString128Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Strings' found Template for field 'String512Value' with GhostField configuration 'Type:Unity.Collections.FixedString512Bytes Key:Unity.Collections.FixedString512Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString512Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_Strings' found Template for field 'String4096Value' with GhostField configuration 'Type:Unity.Collections.FixedString4096Bytes Key:Unity.Collections.FixedString4096Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString4096Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.InputBufferData<Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_IInputComponentData_Strings>
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(394,1): info NetCode: Generating input buffer command data for $Unity.NetCode.InputBufferData<Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_IInputComponentData_Strings>!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_StringsGhostGenTestUtils_GhostGenTestType_IInputComponentData_StringsInputBufferData' found Template for field 'String32Value' with GhostField configuration 'Type:Unity.Collections.FixedString32Bytes Key:Unity.Collections.FixedString32Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_StringsGhostGenTestUtils_GhostGenTestType_IInputComponentData_StringsInputBufferData' found Template for field 'String64Value' with GhostField configuration 'Type:Unity.Collections.FixedString64Bytes Key:Unity.Collections.FixedString64Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString64Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_StringsGhostGenTestUtils_GhostGenTestType_IInputComponentData_StringsInputBufferData' found Template for field 'String128Value' with GhostField configuration 'Type:Unity.Collections.FixedString128Bytes Key:Unity.Collections.FixedString128Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString128Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_StringsGhostGenTestUtils_GhostGenTestType_IInputComponentData_StringsInputBufferData' found Template for field 'String512Value' with GhostField configuration 'Type:Unity.Collections.FixedString512Bytes Key:Unity.Collections.FixedString512Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString512Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IInputComponentData_StringsGhostGenTestUtils_GhostGenTestType_IInputComponentData_StringsInputBufferData' found Template for field 'String4096Value' with GhostField configuration 'Type:Unity.Collections.FixedString4096Bytes Key:Unity.Collections.FixedString4096Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString4096Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(329,1): info NetCode: Adding SerializationStrategy for input buffer Unity.NetCode.InputBufferData<Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_IInputComponentData_Strings>, which doesn't have any GhostFields, as we still need to store the GhostComponentAttribute data.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_IComponentData
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_IComponentData
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'x' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'y' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'z' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'x' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'y' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'z' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'x' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'y' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'z' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'x' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'y' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'z' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'x' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=10 composite=True smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'y' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=10 composite=True smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'z' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=10 composite=True smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'IntValue' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'UIntValue' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'BoolValue' with GhostField configuration 'Type:System.Boolean Key:System.Boolean (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueBool.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'LongValue' with GhostField configuration 'Type:System.Int64 Key:System.Int64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueLong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'ULongValue' with GhostField configuration 'Type:System.UInt64 Key:System.UInt64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueULong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Unquantized_FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=10 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Unquantized_DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=10 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueDouble.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=10 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Unquantized_Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=10 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Unquantized_Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=10 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Unquantized_Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=1000 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueQuaternion.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Unquantized_QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'EntityValue' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'String32Value' with GhostField configuration 'Type:Unity.Collections.FixedString32Bytes Key:Unity.Collections.FixedString32Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'String64Value' with GhostField configuration 'Type:Unity.Collections.FixedString64Bytes Key:Unity.Collections.FixedString64Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString64Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'String128Value' with GhostField configuration 'Type:Unity.Collections.FixedString128Bytes Key:Unity.Collections.FixedString128Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString128Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'String512Value' with GhostField configuration 'Type:Unity.Collections.FixedString512Bytes Key:Unity.Collections.FixedString512Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString512Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'String4096Value' with GhostField configuration 'Type:Unity.Collections.FixedString4096Bytes Key:Unity.Collections.FixedString4096Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString4096Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'x' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=10 composite=False smoothing=1 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'y' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=10 composite=False smoothing=1 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'z' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=10 composite=False smoothing=1 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Unquantized_Interpolated_FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=1 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Interpolated_FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=10 composite=False smoothing=1 subtype=0)': 'IsComposite(False), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Unquantized_Interpolated_DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=1 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Interpolated_DoubleValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=10 composite=False smoothing=1 subtype=0)': 'IsComposite(False), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Interpolated_Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=10 composite=False smoothing=1 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Interpolated_Unquantized_Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=1 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Interpolated_Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=10 composite=False smoothing=1 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Interpolated_Unquantized_Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=1 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Interpolated_Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=10 composite=False smoothing=1 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Interpolated_Unquantized_Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=1 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Interpolated_QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=1000 composite=False smoothing=1 subtype=0)': 'IsComposite(False), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueQuaternion.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IComponentData' found Template for field 'Interpolated_Unquantized_QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=1 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_IComponentData had its type hash reset, so recalculating it to 11069359453652112618!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_ICommandData_Values
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_ICommandData_Values
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'x' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'y' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'z' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'x' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'y' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'z' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'x' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'y' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'z' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=True smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'x' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'y' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'z' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'x' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=10 composite=True smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'y' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=10 composite=True smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'z' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=10 composite=True smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'IntValue' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'UIntValue' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'BoolValue' with GhostField configuration 'Type:System.Boolean Key:System.Boolean (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueBool.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'LongValue' with GhostField configuration 'Type:System.Int64 Key:System.Int64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueLong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'ULongValue' with GhostField configuration 'Type:System.UInt64 Key:System.UInt64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueULong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Unquantized_FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=10 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Unquantized_DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=10 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueDouble.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=10 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Unquantized_Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=10 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Unquantized_Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=10 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueFloat.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Unquantized_Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=1000 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(True)
+TemplatePath: NetCode.GhostSnapshotValueQuaternion.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Unquantized_QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'EntityValue' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Tick' with GhostField configuration 'Type:Unity.NetCode.NetworkTick Key:Unity.NetCode.NetworkTick (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueNetworkTick.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_ICommandData_Values had its type hash reset, so recalculating it to 16632570734073942148!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_ICommandData_Strings
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_ICommandData_Strings
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Strings' found Template for field 'String32Value' with GhostField configuration 'Type:Unity.Collections.FixedString32Bytes Key:Unity.Collections.FixedString32Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Strings' found Template for field 'String64Value' with GhostField configuration 'Type:Unity.Collections.FixedString64Bytes Key:Unity.Collections.FixedString64Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString64Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Strings' found Template for field 'String128Value' with GhostField configuration 'Type:Unity.Collections.FixedString128Bytes Key:Unity.Collections.FixedString128Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString128Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Strings' found Template for field 'String512Value' with GhostField configuration 'Type:Unity.Collections.FixedString512Bytes Key:Unity.Collections.FixedString512Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString512Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Strings' found Template for field 'String4096Value' with GhostField configuration 'Type:Unity.Collections.FixedString4096Bytes Key:Unity.Collections.FixedString4096Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString4096Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Strings' found Template for field 'Tick' with GhostField configuration 'Type:Unity.NetCode.NetworkTick Key:Unity.NetCode.NetworkTick (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueNetworkTick.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_ICommandData_Strings had its type hash reset, so recalculating it to 12532497419869276868!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.TestComponent1
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Unity.NetCode.Tests.TestComponent1
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Unity.NetCode.Tests.TestComponent1 had its type hash reset, so recalculating it to 8700991550609052732!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.TestComponent2
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Unity.NetCode.Tests.TestComponent2
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_TestComponent2' found Template for field 'Test1' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_TestComponent2' found Template for field 'Test2' with GhostField configuration 'Type:System.Int64 Key:System.Int64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueLong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_TestComponent2' found Template for field 'Test3' with GhostField configuration 'Type:System.UInt64 Key:System.UInt64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueULong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_TestComponent2' found Template for field 'Test4' with GhostField configuration 'Type:Unity.Collections.FixedString128Bytes Key:Unity.Collections.FixedString128Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString128Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Unity.NetCode.Tests.TestComponent2 had its type hash reset, so recalculating it to 2488467828282222750!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.TestBuffer3
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Unity.NetCode.Tests.TestBuffer3
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_TestBuffer3' found Template for field 'Test1' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_TestBuffer3' found Template for field 'Test2' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_TestBuffer3' found Template for field 'Test3' with GhostField configuration 'Type:System.Byte Key:System.Byte (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_TestBuffer3' found Template for field 'Test4' with GhostField configuration 'Type:System.SByte Key:System.SByte (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Unity.NetCode.Tests.TestBuffer3 had its type hash reset, so recalculating it to 3163400206842567690!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.SomeData
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Unity.NetCode.Tests.SomeData
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_SomeData' found Template for field 'Value' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Unity.NetCode.Tests.SomeData had its type hash reset, so recalculating it to 14429088785760424724!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.SomeDataElement
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Unity.NetCode.Tests.SomeDataElement
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_SomeDataElement' found Template for field 'Value' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Unity.NetCode.Tests.SomeDataElement had its type hash reset, so recalculating it to 5783857727460196884!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\CommandFactory.cs(56,1): info NetCode: Generating command for Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_ICommandData_Values
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'x' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'x' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'y' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'y' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'z' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'z' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'w' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_ICommandData_Values' found Template for field 'QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\CommandFactory.cs(56,1): info NetCode: Generating command for Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_ICommandData_Strings
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Unity.NetCode.Tests.GhostGenTestUtils.GhostGenTestType_IRpc
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\RpcFactory.cs(54,1): info NetCode: Generating rpc for $Unity.NetCode.Tests.GhostGenTestUtils+GhostGenTestType_IRpc
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'x' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'y' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'z' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'x' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'y' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'z' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'x' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'x' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'y' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'y' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'z' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'z' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'w' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'IntValue' with GhostField configuration 'Type:System.Int32 Key:System.Int32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'UIntValue' with GhostField configuration 'Type:System.UInt32 Key:System.UInt32 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'BoolValue' with GhostField configuration 'Type:System.Boolean Key:System.Boolean (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueBool.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'LongValue' with GhostField configuration 'Type:System.Int64 Key:System.Int64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueLong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'ULongValue' with GhostField configuration 'Type:System.UInt64 Key:System.UInt64 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueULong.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Unquantized_FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Unquantized_DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Unquantized_Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Unquantized_Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Unquantized_Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Unquantized_QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'EntityValue' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'String32Value' with GhostField configuration 'Type:Unity.Collections.FixedString32Bytes Key:Unity.Collections.FixedString32Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'String64Value' with GhostField configuration 'Type:Unity.Collections.FixedString64Bytes Key:Unity.Collections.FixedString64Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString64Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'String128Value' with GhostField configuration 'Type:Unity.Collections.FixedString128Bytes Key:Unity.Collections.FixedString128Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString128Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'String512Value' with GhostField configuration 'Type:Unity.Collections.FixedString512Bytes Key:Unity.Collections.FixedString512Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString512Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'String4096Value' with GhostField configuration 'Type:Unity.Collections.FixedString4096Bytes Key:Unity.Collections.FixedString4096Bytes (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFixedString32Bytes.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFixedString4096Bytes.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Unquantized_Interpolated_FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Interpolated_FloatValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Unquantized_Interpolated_DoubleValue' with GhostField configuration 'Type:System.Double Key:System.Double (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueDoubleUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Interpolated_DoubleValue' with GhostField configuration 'Type:System.Single Key:System.Single (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Interpolated_Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Interpolated_Unquantized_Float2Value' with GhostField configuration 'Type:Unity.Mathematics.float2 Key:Unity.Mathematics.float2 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat2Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Interpolated_Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Interpolated_Unquantized_Float3Value' with GhostField configuration 'Type:Unity.Mathematics.float3 Key:Unity.Mathematics.float3 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat3Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Interpolated_Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Interpolated_Unquantized_Float4Value' with GhostField configuration 'Type:Unity.Mathematics.float4 Key:Unity.Mathematics.float4 (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(True), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueFloatUnquantized.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueFloat4Unquantized.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Interpolated_QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Unity_NetCode_TestsUtils_Generated_Unity_NetCode_Tests_GhostGenTestUtils+GhostGenTestType_IRpc' found Template for field 'Interpolated_Unquantized_QuaternionValue' with GhostField configuration 'Type:Unity.Mathematics.quaternion Key:Unity.Mathematics.quaternion (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueQuaternionUnquantized.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(144,1): info NetCode: End Processing assembly Unity.NetCode.TestsUtils.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(145,1): info NetCode: Timing:
+Total: 178.6405 msec

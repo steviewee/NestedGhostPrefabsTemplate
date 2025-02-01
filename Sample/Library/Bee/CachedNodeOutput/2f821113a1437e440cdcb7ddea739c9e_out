@@ -1,0 +1,45 @@
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(128,1): info NetCode: Begin Processing assembly Zhorman.NestedGhostPrefabs.Runtime.Components
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TemplateFileProvider.cs(98,1): info NetCode: Ignoring AdditionalFile 'D:\Unity\SpellPaint7\Library/Bee/artifacts/1900b0aE.dag/Zhorman.NestedGhostPrefabs.Runtime.Components.UnityAdditionalFile.txt' as it is not a NetCode type!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Zhorman.NestedGhostPrefabs.Runtime.Components.GhostRootLink
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Zhorman.NestedGhostPrefabs.Runtime.Components.GhostRootLink
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Components_Generated_Zhorman_NestedGhostPrefabs_Runtime_Components_GhostRootLink' found Template for field 'Value' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Zhorman.NestedGhostPrefabs.Runtime.Components.GhostRootLink had its type hash reset, so recalculating it to 14793109405162168338!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Zhorman.NestedGhostPrefabs.Runtime.Components.ImmitatedChild
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Zhorman.NestedGhostPrefabs.Runtime.Components.ImmitatedChild
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Components_Generated_Zhorman_NestedGhostPrefabs_Runtime_Components_ImmitatedChild' found Template for field 'Value' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Zhorman.NestedGhostPrefabs.Runtime.Components.ImmitatedChild had its type hash reset, so recalculating it to 15313686074697142020!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Zhorman.NestedGhostPrefabs.Runtime.Components.ImmitatedParentReference
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Zhorman.NestedGhostPrefabs.Runtime.Components.ImmitatedParentReference
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Components_Generated_Zhorman_NestedGhostPrefabs_Runtime_Components_ImmitatedParentReference' found Template for field 'Value' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Components_Generated_Zhorman_NestedGhostPrefabs_Runtime_Components_ImmitatedParentReference' found Template for field 'oldlyParented' with GhostField configuration 'Type:System.Boolean Key:System.Boolean (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueBool.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Zhorman.NestedGhostPrefabs.Runtime.Components.ImmitatedParentReference had its type hash reset, so recalculating it to 1135147357177095038!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TypeInformationBuilder.cs(54,1): info NetCode: Building type info for Zhorman.NestedGhostPrefabs.Runtime.Components.DesiredParent
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\Factories\ComponentFactory.cs(112,1): info NetCode: Generating ghost for Zhorman.NestedGhostPrefabs.Runtime.Components.DesiredParent
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Components_Generated_Zhorman_NestedGhostPrefabs_Runtime_Components_DesiredParent' found Template for field 'NextParent' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Components_Generated_Zhorman_NestedGhostPrefabs_Runtime_Components_DesiredParent' found Template for field 'PreviousParent' with GhostField configuration 'Type:Unity.Entities.Entity Key:Unity.Entities.Entity (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueEntity.cs
+TemplateOverridePath: 
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\CodeGenerator.cs(108,1): info NetCode: 'Zhorman_NestedGhostPrefabs_Runtime_Components_Generated_Zhorman_NestedGhostPrefabs_Runtime_Components_DesiredParent' found Template for field 'shouldBeUnParented' with GhostField configuration 'Type:System.Boolean Key:System.Boolean (quantized=-1 composite=False smoothing=0 subtype=0)': 'IsComposite(False), SupportQuantization(False)
+TemplatePath: NetCode.GhostSnapshotValueUInt.cs
+TemplateOverridePath: NetCode.GhostSnapshotValueBool.cs
+'.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\CodeGenerator\ComponentSerializer.cs(364,1): info NetCode: Zhorman.NestedGhostPrefabs.Runtime.Components.DesiredParent had its type hash reset, so recalculating it to 4479620987670934212!
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(144,1): info NetCode: End Processing assembly Zhorman.NestedGhostPrefabs.Runtime.Components.
+D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(145,1): info NetCode: Timing:
+Total: 48.6358 msec

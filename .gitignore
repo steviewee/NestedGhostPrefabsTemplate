@@ -1,1 +1,5 @@
-Samples/Library
+Sample/Library
+Sample/Temp
+Sample/obj
+Sample/*.sln
+Sample/*.csproj

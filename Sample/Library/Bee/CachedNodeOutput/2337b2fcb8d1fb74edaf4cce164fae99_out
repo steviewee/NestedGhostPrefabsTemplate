@@ -1,5 +1,0 @@
-D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(128,1): info NetCode: Begin Processing assembly Unity.NetCode.Editor
-D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\TemplateFileProvider.cs(98,1): info NetCode: Ignoring AdditionalFile 'D:\Unity\SpellPaint7\Library/Bee/artifacts/1900b0aE.dag/Unity.NetCode.Editor.UnityAdditionalFile.txt' as it is not a NetCode type!
-D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(144,1): info NetCode: End Processing assembly Unity.NetCode.Editor.
-D:\opt\UnitySrc\dots\Packages\com.unity.netcode\Runtime\SourceGenerators\Source~\NetCodeSourceGenerator\Generators\NetCodeSourceGenerator.cs(145,1): info NetCode: Timing:
-Total: 88.1163 msec

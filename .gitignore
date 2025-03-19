@@ -1,6 +1,7 @@
 *.DS_STORE
 
 
+Sample/Logs
 Sample/Library
 Sample/Temp
 Sample/obj
